@@ -1,0 +1,218 @@
+# list of arcanes
+wf_arcanes = [
+    "Arcane Acceleration",
+    "Arcane Aegis",
+    "Arcane Agility",
+    "Arcane Arachne",
+    "Arcane Awakening",
+    "Arcane Avenger",
+    "Arcane Barrier",
+    "Arcane Battery",
+    "Arcane Bellicose",
+    "Arcane Blessing",
+    "Arcane Blade Charger",
+    "Arcane Bodyguard",
+    "Arcane Camisado",
+    "Arcane Consequence",
+    "Arcane Crepuscular",
+    "Arcane Deflection",
+    "Arcane Double Back",
+    "Arcane Energize",
+    "Arcane Eruption",
+    "Arcane Escapist",
+    "Arcane Fury",
+    "Arcane Grace",
+    "Arcane Guardian",
+    "Arcane Healing",
+    "Arcane Hot Shot",
+    "Arcane Ice",
+    "Arcane Ice Storm",
+    "Arcane Impetus",
+    "Arcane Intention",
+    "Arcane Momentum",
+    "Arcane Nullifier",
+    "Arcane Phantasm",
+    "Arcane Pistoleer",
+    "Arcane Power Ramp",
+    "Arcane Precision",
+    "Arcane Primary Charger",
+    "Arcane Pulse",
+    "Arcane Rage",
+    "Arcane Reaper",
+    "Arcane Resistance",
+    "Arcane Rise",
+    "Arcane Steadfast",
+    "Arcane Strike",
+    "Arcane Tanker",
+    "Arcane Tempo",
+    "Arcane Trickery",
+    "Arcane Truculence",
+    "Arcane Ultimatum",
+    "Arcane Universal Fallout",
+    "Arcane Velocity",
+    "Arcane Victory",
+    "Molt Augmented",
+    "Molt Efficiency",
+    "Molt Reconstruct",
+    "Molt Vigor",
+    "Theorem Contagion",
+    "Theorem Demulcent",
+    "Theorem Infection"
+]
+
+pri_arcanes = [
+    "Fractalized Reset",
+    "Longbow Sharpshot",
+    "Primary Blight",
+    "Primary Crux",
+    "Primary Deadhead",
+    "Primary Dexterity",
+    "Primary Exhilarate",
+    "Primary Frostbite",
+    "Primary Merciless",
+    "Primary Obstruct",
+    "Primary Plated Round",
+    "Shotgun Vendetta"
+]
+
+sec_arcanes = [
+    "Akimbo Slip Shot",
+    "Cascadia Accuracy",
+    "Cascadia Empowered",
+    "Cascadia Flare",
+    "Cascadia Overcharge",
+    "Conjunction Voltage",
+    "Secondary Deadhead",
+    "Secondary Dexterity",
+    "Secondary Encumber",
+    "Secondary Enervate",
+    "Secondary Fortifier",
+    "Secondary Kinship",
+    "Secondary Merciless",
+    "Secondary Outburst",
+    "Secondary Shiver",
+    "Secondary Surge"
+]
+
+mel_arcanes = [
+    "Melee Afflictions",
+    "Melee Animosity",
+    "Melee Crescendo",
+    "Melee Doughty",
+    "Melee Duplicate",
+    "Melee Exposure",
+    "Melee Fortification",
+    "Melee Influence",
+    "Melee Retaliation",
+    "Melee Vortex"
+]
+
+ope_arcanes = [
+    "Emergence Dissipate",
+    "Emergence Renewed",
+    "Emergence Savior",
+    "Magus Accelerant",
+    "Magus Aggress",
+    "Magus Cadence",
+    "Magus Cloud",
+    "Magus Destruct",
+    "Magus Drive",
+    "Magus Elevate",
+    "Magus Firewall",
+    "Magus Glitch",
+    "Magus Husk",
+    "Magus Lockdown",
+    "Magus Melt",
+    "Magus Nourish",
+    "Magus Overload",
+    "Magus Replenish",
+    "Magus Repair",
+    "Magus Revert",
+    "Magus Vigor"
+]
+
+amp_arcanes = [
+    "Eternal Eradicate",
+    "Eternal Logistics",
+    "Eternal Onslaught",
+    "Virtuos Fury",
+    "Virtuos Forge",
+    "Virtuos Ghost",
+    "Virtuos Null",
+    "Virtuos Shadow",
+    "Virtuos Spike",
+    "Virtuos Strike",
+    "Virtuos Surge",
+    "Virtuos Tempo",
+    "Virtuos Trojan"
+]
+
+kit_arcanes = [
+    "Pax Bolt",
+    "Pax Charge",
+    "Pax Seeker",
+    "Pax Soar",
+    "Residual Boils",
+    "Residual Malodor",
+    "Residual Shock",
+    "Residual Viremia"
+]
+
+zaw_arcanes = [
+    "Exodia Brave",
+    "Exodia Contagion",
+    "Exodia Epidemic",
+    "Exodia Force",
+    "Exodia Hunt",
+    "Exodia Might",
+    "Exodia Triumph",
+    "Exodia Valor"
+]
+
+# list of Warframes
+warframes = [
+    "Ash", "Atlas",
+    "Banshee", "Baruuk",
+    "Caliban", "Chroma", "Citrine", "Cyte-09",
+    "Dagath", "Dante",
+    "Ember", "Equinox", "Excalibur",
+    "Frost",
+    "Gara", "Garuda", "Gauss", "Grendel", "Gyre",
+    "Harrow", "Hildryn", "Hydroid",
+    "Inaros", "Ivara",
+    "Jade",
+    "Khora", "Koumei", "Kullervo",
+    "Lavos", "Limbo", "Loki",
+    "Mag", "Mesa", "Mirage",
+    "Nekros", "Nezha", "Nidus", "Nova", "Nyx",
+    "Oberon", "Octavia",
+    "Protea",
+    "Qorvex",
+    "Revenant", "Rhino",
+    "Saryn", "Sevagoth", "Styanax",
+    "Titania", "Trinity",
+    "Valkyr", "Vauban", "Volt", "Voruna",
+    "Wisp", "Wukong",
+    "Xaku",
+    "Yareli",
+    "Zephyr"
+]
+
+# list of companions
+companions = [
+     "Carrier",
+     "Dethcube", "Diriga", "Djinn",
+     "Helios",
+     "Nautilus",
+     "Oxylus",
+     "Shade",
+     "Taxon",
+     "Wyrm",
+     "MOA",
+     "Hound",
+     "Kubrow",
+     "Predasite",
+     "Kavat",
+     "Venari",
+     "Vulpaphyla"
+]

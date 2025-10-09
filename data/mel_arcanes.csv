@@ -1,0 +1,11 @@
+item_name,thumb,url_name,id,avg_price
+Melee Duplicate,items/images/en/thumbs/melee_duplicate.0ac0137e555cde39902706e96853dff9.128x128.webp,melee_duplicate,657f2efd8820fb8f3c5f4663,377
+Melee Crescendo,items/images/en/thumbs/melee_crescendo.fec1a875c68b84f3282a21a82aabdb20.128x128.webp,melee_crescendo,657f2efd8820fb8f3c5f465f,225
+Melee Exposure,items/images/en/thumbs/melee_exposure.8f640378cd4d4ca4758da310524b90c6.128x128.webp,melee_exposure,657f2efd8820fb8f3c5f4662,187
+Melee Influence,items/images/en/thumbs/melee_influence.b22232a58406e5feeb8bbe94c07c18d2.128x128.webp,melee_influence,657f2efd8820fb8f3c5f465d,79
+Melee Afflictions,items/unknown.thumb.png,melee_afflictions,667c25a207a5007fadf3ecaa,79
+Melee Vortex,items/images/en/thumbs/melee_vortex.467abbf619c4e9324cd2b130e91c58a1.128x128.webp,melee_vortex,657f2efd8820fb8f3c5f4660,62
+Melee Animosity,items/images/en/thumbs/melee_animosity.588b2ef400df2947ffdf7cce1a3259db.128x128.webp,melee_animosity,657f2efd8820fb8f3c5f4661,57
+Melee Retaliation,items/images/en/thumbs/melee_retaliation.bb1d89feb4393d3681c495372d8c3531.128x128.webp,melee_retaliation,657f2efd8820fb8f3c5f465e,29
+Melee Doughty,items/unknown.thumb.png,melee_doughty,675c5cd97b18977f6e6453f0,22
+Melee Fortification,items/images/en/thumbs/melee_fortification.546e560aff6676bf550b0de38f14f280.128x128.webp,melee_fortification,657f2efd8820fb8f3c5f4664,21

@@ -64,11 +64,22 @@ def filter_items():
 
         #---
 
+        arcanes_dict = {}
+        for i in arcanes:
+            slug = i['slug']
+            rank = i['maxRank']
+            arcanes_dict[slug] = {
+                "arcane": slug,
+                "rank": rank
+            }
+
+        #---
+
         filtered_data = {
             "warframe": wf_dict,
             "weapons": weapons_dict,
             "companions": companions_dict,
-            "arcanes": arcanes,
+            "arcanes": arcanes_dict,
             "mods": mods
         }
 

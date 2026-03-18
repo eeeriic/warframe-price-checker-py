@@ -6,7 +6,7 @@ def filter_items():
 
         primes = [i for i in data if "prime" in i["tags"] and "mod" not in i["tags"]] # warfarmes, weapons and companions
         arcanes = [i for i in data if "arcane_enhancement" in i["tags"] and "mod" not in i["tags"]] # arcanes
-        mods = [i["slug"] for i in data if "mod" in i["tags"]] # mods
+        mods = [i for i in data if "mod" in i["tags"] and any(r in i["tags"] for r in ["legendary"])] # mods
 
         #---
 
@@ -75,12 +75,27 @@ def filter_items():
 
         #---
 
+        mods_dict = {}
+        for i in mods:
+            slug = i['slug']
+            if 'maxRank' not in i:
+                print(f"Mod '{slug}' is missing 'maxRank'")
+                continue
+            rank = i['maxRank']
+            mods_dict[slug] = {
+                "mod": slug,
+                "rank": rank
+            }
+
+
+        #---
+
         filtered_data = {
             "warframe": wf_dict,
             "weapons": weapons_dict,
             "companions": companions_dict,
             "arcanes": arcanes_dict,
-            "mods": mods
+            "mods": mods_dict
         }
 
         with open("3filterItems/filtered_data.json", "w") as file:

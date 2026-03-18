@@ -1266,37 +1266,55 @@
         "helios": {
             "set": "helios_prime_set",
             "parts": [
-                "helios_prime_blueprint"
+                "helios_prime_carapace",
+                "helios_prime_blueprint",
+                "helios_prime_cerebrum",
+                "helios_prime_systems"
             ]
         },
         "carrier": {
             "set": "carrier_prime_set",
             "parts": [
-                "carrier_prime_blueprint"
+                "carrier_prime_blueprint",
+                "carrier_prime_carapace",
+                "carrier_prime_systems",
+                "carrier_prime_cerebrum"
             ]
         },
         "dethcube": {
             "set": "dethcube_prime_set",
             "parts": [
-                "dethcube_prime_blueprint"
+                "dethcube_prime_carapace",
+                "dethcube_prime_cerebrum",
+                "dethcube_prime_blueprint",
+                "dethcube_prime_systems"
             ]
         },
         "wyrm": {
             "set": "wyrm_prime_set",
             "parts": [
-                "wyrm_prime_blueprint"
+                "wyrm_prime_blueprint",
+                "wyrm_prime_systems",
+                "wyrm_prime_carapace",
+                "wyrm_prime_cerebrum"
             ]
         },
         "shade": {
             "set": "shade_prime_set",
             "parts": [
-                "shade_prime_blueprint"
+                "shade_prime_blueprint",
+                "shade_prime_systems",
+                "shade_prime_cerebrum",
+                "shade_prime_carapace"
             ]
         },
         "nautilus": {
             "set": "nautilus_prime_set",
             "parts": [
-                "nautilus_prime_blueprint"
+                "nautilus_prime_blueprint",
+                "nautilus_prime_cerebrum",
+                "nautilus_prime_carapace",
+                "nautilus_prime_systems"
             ]
         }
     },

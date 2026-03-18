@@ -11,8 +11,8 @@ def filter_items():
         #---
 
         wf = [i for i in primes if "warframe" in i["tags"]]
-        weapons = [i for i in primes if "weapon" in i["tags"]]
-        companions = [i for i in primes if "sentinel" in i["tags"]]
+        weapons = [i for i in primes if "weapon" in i["tags"] and "sentinel" not in i["tags"]]
+        # companions = [i for i in primes if "sentinel" in i["tags"]]
 
         #---
 
@@ -22,8 +22,8 @@ def filter_items():
         weapon_sets = [i["slug"] for i in weapons if "set" in i["tags"]]
         weapon_parts = [i["slug"] for i in weapons if any(tag in ["component", "blueprint"] for tag in i["tags"])]
 
-        companion_sets = [i["slug"] for i in companions if "set" in i["tags"]]
-        companion_parts = [i["slug"] for i in companions if any(tag in ["systems", "carapace", "blueprint", "cerebrum"] for tag in i["tags"])]
+        companion_sets = [i["slug"] for i in primes if "sentinel" in i["tags"] and i["slug"].endswith("_set")]
+        companion_parts = [i["slug"] for i in primes if i["slug"].endswith(("systems", "carapace", "blueprint", "cerebrum"))]
         
         #---
 

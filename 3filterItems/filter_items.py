@@ -1,7 +1,7 @@
 import json
 
 def filter_items():
-    with open("../2filterData/all_items.json", "r") as file:
+    with open("./2filterData/all_items.json", "r") as file:
         data = json.load(file)
 
         primes = [i for i in data if "prime" in i["tags"] and "mod" not in i["tags"]] # warfarmes, weapons and companions
@@ -23,8 +23,8 @@ def filter_items():
         weapon_parts = [i["slug"] for i in weapons if any(tag in ["component", "blueprint"] for tag in i["tags"])]
 
         companion_sets = [i["slug"] for i in companions if "set" in i["tags"]]
-        companion_parts = [i["slug"] for i in companions if "blueprint" in i["tags"]]
-
+        companion_parts = [i["slug"] for i in companions if any(tag in ["systems", "carapace", "blueprint", "cerebrum"] for tag in i["tags"])]
+        
         #---
 
         def extract_base_name(slug):
@@ -40,7 +40,7 @@ def filter_items():
             name = extract_base_name(slug)
             parts = get_parts_for_item(name, wf_parts)
             wf_dict[name] = {
-                "set": name,
+                "set": slug,
                 "parts": parts
             }
 
@@ -49,7 +49,7 @@ def filter_items():
             name = extract_base_name(slug)
             parts = get_parts_for_item(name, weapon_parts)
             weapons_dict[name] = {
-                "set": name,
+                "set": slug,
                 "parts": parts
             }
 
@@ -58,22 +58,22 @@ def filter_items():
             name = extract_base_name(slug)
             parts = get_parts_for_item(name, companion_parts)
             companions_dict[name] = {
-                "set": name,
+                "set": slug,
                 "parts": parts
             }
 
         #---
 
         filtered_data = {
-            "wf": wf_dict,
+            "warframe": wf_dict,
             "weapons": weapons_dict,
             "companions": companions_dict,
             "arcanes": arcanes,
             "mods": mods
         }
 
-        # with open("filtered_data.json", "w") as file:
-        #     json.dump(filtered_data, file, indent=4)
+        with open("3filterItems/filtered_data.json", "w") as file:
+            json.dump(filtered_data, file, indent=4)
 
         
 

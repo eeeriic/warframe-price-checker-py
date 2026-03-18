@@ -1,7 +1,7 @@
 {
-    "wf": {
+    "warframe": {
         "frost": {
-            "set": "frost",
+            "set": "frost_prime_set",
             "parts": [
                 "frost_prime_blueprint",
                 "frost_prime_neuroptics_blueprint",
@@ -10,7 +10,7 @@
             ]
         },
         "hydroid": {
-            "set": "hydroid",
+            "set": "hydroid_prime_set",
             "parts": [
                 "hydroid_prime_neuroptics_blueprint",
                 "hydroid_prime_chassis_blueprint",
@@ -19,7 +19,7 @@
             ]
         },
         "saryn": {
-            "set": "saryn",
+            "set": "saryn_prime_set",
             "parts": [
                 "saryn_prime_blueprint",
                 "saryn_prime_neuroptics_blueprint",
@@ -28,7 +28,7 @@
             ]
         },
         "rhino": {
-            "set": "rhino",
+            "set": "rhino_prime_set",
             "parts": [
                 "rhino_prime_neuroptics_blueprint",
                 "rhino_prime_blueprint",
@@ -37,7 +37,7 @@
             ]
         },
         "wukong": {
-            "set": "wukong",
+            "set": "wukong_prime_set",
             "parts": [
                 "wukong_prime_neuroptics_blueprint",
                 "wukong_prime_chassis_blueprint",
@@ -46,7 +46,7 @@
             ]
         },
         "ember": {
-            "set": "ember",
+            "set": "ember_prime_set",
             "parts": [
                 "ember_prime_neuroptics_blueprint",
                 "ember_prime_chassis_blueprint",
@@ -55,7 +55,7 @@
             ]
         },
         "mag": {
-            "set": "mag",
+            "set": "mag_prime_set",
             "parts": [
                 "mag_prime_chassis_blueprint",
                 "mag_prime_neuroptics_blueprint",
@@ -64,7 +64,7 @@
             ]
         },
         "oberon": {
-            "set": "oberon",
+            "set": "oberon_prime_set",
             "parts": [
                 "oberon_prime_neuroptics_blueprint",
                 "oberon_prime_chassis_blueprint",
@@ -73,7 +73,7 @@
             ]
         },
         "trinity": {
-            "set": "trinity",
+            "set": "trinity_prime_set",
             "parts": [
                 "trinity_prime_neuroptics_blueprint",
                 "trinity_prime_blueprint",
@@ -82,7 +82,7 @@
             ]
         },
         "volt": {
-            "set": "volt",
+            "set": "volt_prime_set",
             "parts": [
                 "volt_prime_neuroptics_blueprint",
                 "volt_prime_chassis_blueprint",
@@ -91,7 +91,7 @@
             ]
         },
         "titania": {
-            "set": "titania",
+            "set": "titania_prime_set",
             "parts": [
                 "titania_prime_neuroptics_blueprint",
                 "titania_prime_blueprint",
@@ -100,7 +100,7 @@
             ]
         },
         "inaros": {
-            "set": "inaros",
+            "set": "inaros_prime_set",
             "parts": [
                 "inaros_prime_chassis_blueprint",
                 "inaros_prime_neuroptics_blueprint",
@@ -109,7 +109,7 @@
             ]
         },
         "valkyr": {
-            "set": "valkyr",
+            "set": "valkyr_prime_set",
             "parts": [
                 "valkyr_prime_neuroptics_blueprint",
                 "valkyr_prime_chassis_blueprint",
@@ -118,7 +118,7 @@
             ]
         },
         "limbo": {
-            "set": "limbo",
+            "set": "limbo_prime_set",
             "parts": [
                 "limbo_prime_systems_blueprint",
                 "limbo_prime_blueprint",
@@ -127,7 +127,7 @@
             ]
         },
         "atlas": {
-            "set": "atlas",
+            "set": "atlas_prime_set",
             "parts": [
                 "atlas_prime_chassis_blueprint",
                 "atlas_prime_systems_blueprint",
@@ -136,7 +136,7 @@
             ]
         },
         "chroma": {
-            "set": "chroma",
+            "set": "chroma_prime_set",
             "parts": [
                 "chroma_prime_blueprint",
                 "chroma_prime_systems_blueprint",
@@ -145,7 +145,7 @@
             ]
         },
         "banshee": {
-            "set": "banshee",
+            "set": "banshee_prime_set",
             "parts": [
                 "banshee_prime_chassis_blueprint",
                 "banshee_prime_systems_blueprint",
@@ -154,7 +154,7 @@
             ]
         },
         "vauban": {
-            "set": "vauban",
+            "set": "vauban_prime_set",
             "parts": [
                 "vauban_prime_neuroptics_blueprint",
                 "vauban_prime_blueprint",
@@ -163,7 +163,7 @@
             ]
         },
         "loki": {
-            "set": "loki",
+            "set": "loki_prime_set",
             "parts": [
                 "loki_prime_systems_blueprint",
                 "loki_prime_chassis_blueprint",
@@ -172,7 +172,7 @@
             ]
         },
         "nova": {
-            "set": "nova",
+            "set": "nova_prime_set",
             "parts": [
                 "nova_prime_systems_blueprint",
                 "nova_prime_neuroptics_blueprint",
@@ -181,7 +181,7 @@
             ]
         },
         "nyx": {
-            "set": "nyx",
+            "set": "nyx_prime_set",
             "parts": [
                 "nyx_prime_blueprint",
                 "nyx_prime_systems_blueprint",
@@ -190,7 +190,7 @@
             ]
         },
         "zephyr": {
-            "set": "zephyr",
+            "set": "zephyr_prime_set",
             "parts": [
                 "zephyr_prime_chassis_blueprint",
                 "zephyr_prime_blueprint",
@@ -199,7 +199,7 @@
             ]
         },
         "ivara": {
-            "set": "ivara",
+            "set": "ivara_prime_set",
             "parts": [
                 "ivara_prime_neuroptics_blueprint",
                 "ivara_prime_chassis_blueprint",
@@ -208,7 +208,7 @@
             ]
         },
         "mirage": {
-            "set": "mirage",
+            "set": "mirage_prime_set",
             "parts": [
                 "mirage_prime_systems_blueprint",
                 "mirage_prime_blueprint",
@@ -217,7 +217,7 @@
             ]
         },
         "equinox": {
-            "set": "equinox",
+            "set": "equinox_prime_set",
             "parts": [
                 "equinox_prime_blueprint",
                 "equinox_prime_systems_blueprint",
@@ -226,7 +226,7 @@
             ]
         },
         "ash": {
-            "set": "ash",
+            "set": "ash_prime_set",
             "parts": [
                 "ash_prime_neuroptics_blueprint",
                 "ash_prime_chassis_blueprint",
@@ -235,7 +235,7 @@
             ]
         },
         "mesa": {
-            "set": "mesa",
+            "set": "mesa_prime_set",
             "parts": [
                 "mesa_prime_blueprint",
                 "mesa_prime_neuroptics_blueprint",
@@ -244,7 +244,7 @@
             ]
         },
         "nekros": {
-            "set": "nekros",
+            "set": "nekros_prime_set",
             "parts": [
                 "nekros_prime_neuroptics_blueprint",
                 "nekros_prime_chassis_blueprint",
@@ -253,7 +253,7 @@
             ]
         },
         "nezha": {
-            "set": "nezha",
+            "set": "nezha_prime_set",
             "parts": [
                 "nezha_prime_blueprint",
                 "nezha_prime_systems_blueprint",
@@ -262,7 +262,7 @@
             ]
         },
         "octavia": {
-            "set": "octavia",
+            "set": "octavia_prime_set",
             "parts": [
                 "octavia_prime_blueprint",
                 "octavia_prime_chassis_blueprint",
@@ -271,7 +271,7 @@
             ]
         },
         "gara": {
-            "set": "gara",
+            "set": "gara_prime_set",
             "parts": [
                 "gara_prime_blueprint",
                 "gara_prime_neuroptics_blueprint",
@@ -280,7 +280,7 @@
             ]
         },
         "nidus": {
-            "set": "nidus",
+            "set": "nidus_prime_set",
             "parts": [
                 "nidus_prime_blueprint",
                 "nidus_prime_systems_blueprint",
@@ -289,7 +289,7 @@
             ]
         },
         "harrow": {
-            "set": "harrow",
+            "set": "harrow_prime_set",
             "parts": [
                 "harrow_prime_blueprint",
                 "harrow_prime_neuroptics_blueprint",
@@ -298,7 +298,7 @@
             ]
         },
         "garuda": {
-            "set": "garuda",
+            "set": "garuda_prime_set",
             "parts": [
                 "garuda_prime_chassis_blueprint",
                 "garuda_prime_systems_blueprint",
@@ -307,7 +307,7 @@
             ]
         },
         "khora": {
-            "set": "khora",
+            "set": "khora_prime_set",
             "parts": [
                 "khora_prime_chassis_blueprint",
                 "khora_prime_blueprint",
@@ -316,7 +316,7 @@
             ]
         },
         "revenant": {
-            "set": "revenant",
+            "set": "revenant_prime_set",
             "parts": [
                 "revenant_prime_chassis_blueprint",
                 "revenant_prime_systems_blueprint",
@@ -325,7 +325,7 @@
             ]
         },
         "baruuk": {
-            "set": "baruuk",
+            "set": "baruuk_prime_set",
             "parts": [
                 "baruuk_prime_chassis_blueprint",
                 "baruuk_prime_blueprint",
@@ -334,7 +334,7 @@
             ]
         },
         "hildryn": {
-            "set": "hildryn",
+            "set": "hildryn_prime_set",
             "parts": [
                 "hildryn_prime_blueprint",
                 "hildryn_prime_systems_blueprint",
@@ -343,7 +343,7 @@
             ]
         },
         "wisp": {
-            "set": "wisp",
+            "set": "wisp_prime_set",
             "parts": [
                 "wisp_prime_chassis_blueprint",
                 "wisp_prime_neuroptics_blueprint",
@@ -352,7 +352,7 @@
             ]
         },
         "grendel": {
-            "set": "grendel",
+            "set": "grendel_prime_set",
             "parts": [
                 "grendel_prime_blueprint",
                 "grendel_prime_neuroptics_blueprint",
@@ -361,7 +361,7 @@
             ]
         },
         "gauss": {
-            "set": "gauss",
+            "set": "gauss_prime_set",
             "parts": [
                 "gauss_prime_blueprint",
                 "gauss_prime_neuroptics_blueprint",
@@ -370,7 +370,7 @@
             ]
         },
         "protea": {
-            "set": "protea",
+            "set": "protea_prime_set",
             "parts": [
                 "protea_prime_blueprint",
                 "protea_prime_neuroptics_blueprint",
@@ -379,7 +379,7 @@
             ]
         },
         "sevagoth": {
-            "set": "sevagoth",
+            "set": "sevagoth_prime_set",
             "parts": [
                 "sevagoth_prime_blueprint",
                 "sevagoth_prime_neuroptics_blueprint",
@@ -388,7 +388,7 @@
             ]
         },
         "xaku": {
-            "set": "xaku",
+            "set": "xaku_prime_set",
             "parts": [
                 "xaku_prime_blueprint",
                 "xaku_prime_neuroptics_blueprint",
@@ -397,7 +397,7 @@
             ]
         },
         "lavos": {
-            "set": "lavos",
+            "set": "lavos_prime_set",
             "parts": [
                 "lavos_prime_blueprint",
                 "lavos_prime_neuroptics_blueprint",
@@ -406,7 +406,7 @@
             ]
         },
         "yareli": {
-            "set": "yareli",
+            "set": "yareli_prime_set",
             "parts": [
                 "yareli_prime_blueprint",
                 "yareli_prime_neuroptics_blueprint",
@@ -415,7 +415,7 @@
             ]
         },
         "caliban": {
-            "set": "caliban",
+            "set": "caliban_prime_set",
             "parts": [
                 "caliban_prime_blueprint",
                 "caliban_prime_neuroptics_blueprint",
@@ -424,7 +424,7 @@
             ]
         },
         "gyre": {
-            "set": "gyre",
+            "set": "gyre_prime_set",
             "parts": [
                 "gyre_prime_blueprint",
                 "gyre_prime_neuroptics_blueprint",
@@ -435,7 +435,7 @@
     },
     "weapons": {
         "vasto": {
-            "set": "vasto",
+            "set": "vasto_prime_set",
             "parts": [
                 "vasto_prime_barrel",
                 "vasto_prime_blueprint",
@@ -443,7 +443,7 @@
             ]
         },
         "zhuge": {
-            "set": "zhuge",
+            "set": "zhuge_prime_set",
             "parts": [
                 "zhuge_prime_grip",
                 "zhuge_prime_blueprint",
@@ -453,7 +453,7 @@
             ]
         },
         "dual_kamas": {
-            "set": "dual_kamas",
+            "set": "dual_kamas_prime_set",
             "parts": [
                 "dual_kamas_prime_blueprint",
                 "dual_kamas_prime_handle",
@@ -461,7 +461,7 @@
             ]
         },
         "destreza": {
-            "set": "destreza",
+            "set": "destreza_prime_set",
             "parts": [
                 "destreza_prime_handle",
                 "destreza_prime_blade",
@@ -469,7 +469,7 @@
             ]
         },
         "stradavar": {
-            "set": "stradavar",
+            "set": "stradavar_prime_set",
             "parts": [
                 "stradavar_prime_receiver",
                 "stradavar_prime_blueprint",
@@ -478,7 +478,7 @@
             ]
         },
         "silva_and_aegis": {
-            "set": "silva_and_aegis",
+            "set": "silva_and_aegis_prime_set",
             "parts": [
                 "silva_and_aegis_prime_guard",
                 "silva_and_aegis_prime_hilt",
@@ -487,7 +487,7 @@
             ]
         },
         "latron": {
-            "set": "latron",
+            "set": "latron_prime_set",
             "parts": [
                 "latron_prime_barrel",
                 "latron_prime_receiver",
@@ -496,7 +496,7 @@
             ]
         },
         "lex": {
-            "set": "lex",
+            "set": "lex_prime_set",
             "parts": [
                 "lex_prime_blueprint",
                 "lex_prime_barrel",
@@ -504,7 +504,7 @@
             ]
         },
         "vectis": {
-            "set": "vectis",
+            "set": "vectis_prime_set",
             "parts": [
                 "vectis_prime_stock",
                 "vectis_prime_barrel",
@@ -513,7 +513,7 @@
             ]
         },
         "sicarus": {
-            "set": "sicarus",
+            "set": "sicarus_prime_set",
             "parts": [
                 "sicarus_prime_barrel",
                 "sicarus_prime_receiver",
@@ -521,7 +521,7 @@
             ]
         },
         "braton": {
-            "set": "braton",
+            "set": "braton_prime_set",
             "parts": [
                 "braton_prime_barrel",
                 "braton_prime_stock",
@@ -530,14 +530,14 @@
             ]
         },
         "aklex": {
-            "set": "aklex",
+            "set": "aklex_prime_set",
             "parts": [
                 "aklex_prime_blueprint",
                 "aklex_prime_link"
             ]
         },
         "ninkondi": {
-            "set": "ninkondi",
+            "set": "ninkondi_prime_set",
             "parts": [
                 "ninkondi_prime_chain",
                 "ninkondi_prime_blueprint",
@@ -545,7 +545,7 @@
             ]
         },
         "fang": {
-            "set": "fang",
+            "set": "fang_prime_set",
             "parts": [
                 "fang_prime_handle",
                 "fang_prime_blade",
@@ -553,7 +553,7 @@
             ]
         },
         "euphona": {
-            "set": "euphona",
+            "set": "euphona_prime_set",
             "parts": [
                 "euphona_prime_blueprint",
                 "euphona_prime_barrel",
@@ -561,7 +561,7 @@
             ]
         },
         "bo": {
-            "set": "bo",
+            "set": "bo_prime_set",
             "parts": [
                 "bo_prime_blueprint",
                 "bo_prime_handle",
@@ -569,7 +569,7 @@
             ]
         },
         "boar": {
-            "set": "boar",
+            "set": "boar_prime_set",
             "parts": [
                 "boar_prime_blueprint",
                 "boar_prime_barrel",
@@ -578,7 +578,7 @@
             ]
         },
         "boltor": {
-            "set": "boltor",
+            "set": "boltor_prime_set",
             "parts": [
                 "boltor_prime_receiver",
                 "boltor_prime_stock",
@@ -587,7 +587,7 @@
             ]
         },
         "kogake": {
-            "set": "kogake",
+            "set": "kogake_prime_set",
             "parts": [
                 "kogake_prime_gauntlet",
                 "kogake_prime_boot",
@@ -595,14 +595,14 @@
             ]
         },
         "akvasto": {
-            "set": "akvasto",
+            "set": "akvasto_prime_set",
             "parts": [
                 "akvasto_prime_blueprint",
                 "akvasto_prime_link"
             ]
         },
         "ankyros": {
-            "set": "ankyros",
+            "set": "ankyros_prime_set",
             "parts": [
                 "ankyros_prime_blade",
                 "ankyros_prime_gauntlet",
@@ -610,7 +610,7 @@
             ]
         },
         "paris": {
-            "set": "paris",
+            "set": "paris_prime_set",
             "parts": [
                 "paris_prime_blueprint",
                 "paris_prime_grip",
@@ -620,7 +620,7 @@
             ]
         },
         "ballistica": {
-            "set": "ballistica",
+            "set": "ballistica_prime_set",
             "parts": [
                 "ballistica_prime_string",
                 "ballistica_prime_lower_limb",
@@ -630,7 +630,7 @@
             ]
         },
         "venka": {
-            "set": "venka",
+            "set": "venka_prime_set",
             "parts": [
                 "venka_prime_blueprint",
                 "venka_prime_blades",
@@ -638,14 +638,14 @@
             ]
         },
         "akbronco": {
-            "set": "akbronco",
+            "set": "akbronco_prime_set",
             "parts": [
                 "akbronco_prime_link",
                 "akbronco_prime_blueprint"
             ]
         },
         "dakra": {
-            "set": "dakra",
+            "set": "dakra_prime_set",
             "parts": [
                 "dakra_prime_handle",
                 "dakra_prime_blade",
@@ -653,7 +653,7 @@
             ]
         },
         "baza": {
-            "set": "baza",
+            "set": "baza_prime_set",
             "parts": [
                 "baza_prime_blueprint",
                 "baza_prime_stock",
@@ -662,7 +662,7 @@
             ]
         },
         "aksomati": {
-            "set": "aksomati",
+            "set": "aksomati_prime_set",
             "parts": [
                 "aksomati_prime_link",
                 "aksomati_prime_receiver",
@@ -671,7 +671,7 @@
             ]
         },
         "hikou": {
-            "set": "hikou",
+            "set": "hikou_prime_set",
             "parts": [
                 "hikou_prime_pouch",
                 "hikou_prime_stars",
@@ -679,7 +679,7 @@
             ]
         },
         "reaper": {
-            "set": "reaper",
+            "set": "reaper_prime_set",
             "parts": [
                 "reaper_prime_blueprint",
                 "reaper_prime_blade",
@@ -687,7 +687,7 @@
             ]
         },
         "sybaris": {
-            "set": "sybaris",
+            "set": "sybaris_prime_set",
             "parts": [
                 "sybaris_prime_barrel",
                 "sybaris_prime_blueprint",
@@ -696,7 +696,7 @@
             ]
         },
         "redeemer": {
-            "set": "redeemer",
+            "set": "redeemer_prime_set",
             "parts": [
                 "redeemer_prime_blade",
                 "redeemer_prime_blueprint",
@@ -704,7 +704,7 @@
             ]
         },
         "orthos": {
-            "set": "orthos",
+            "set": "orthos_prime_set",
             "parts": [
                 "orthos_prime_blade",
                 "orthos_prime_blueprint",
@@ -712,7 +712,7 @@
             ]
         },
         "tigris": {
-            "set": "tigris",
+            "set": "tigris_prime_set",
             "parts": [
                 "tigris_prime_receiver",
                 "tigris_prime_stock",
@@ -721,7 +721,7 @@
             ]
         },
         "fragor": {
-            "set": "fragor",
+            "set": "fragor_prime_set",
             "parts": [
                 "fragor_prime_head",
                 "fragor_prime_blueprint",
@@ -729,7 +729,7 @@
             ]
         },
         "pangolin": {
-            "set": "pangolin",
+            "set": "pangolin_prime_set",
             "parts": [
                 "pangolin_prime_blade",
                 "pangolin_prime_handle",
@@ -737,7 +737,7 @@
             ]
         },
         "glaive": {
-            "set": "glaive",
+            "set": "glaive_prime_set",
             "parts": [
                 "glaive_prime_blade",
                 "glaive_prime_disc",
@@ -745,7 +745,7 @@
             ]
         },
         "scindo": {
-            "set": "scindo",
+            "set": "scindo_prime_set",
             "parts": [
                 "scindo_prime_handle",
                 "scindo_prime_blueprint",
@@ -753,7 +753,7 @@
             ]
         },
         "akstiletto": {
-            "set": "akstiletto",
+            "set": "akstiletto_prime_set",
             "parts": [
                 "akstiletto_prime_blueprint",
                 "akstiletto_prime_barrel",
@@ -762,7 +762,7 @@
             ]
         },
         "karyst": {
-            "set": "karyst",
+            "set": "karyst_prime_set",
             "parts": [
                 "karyst_prime_handle",
                 "karyst_prime_blueprint",
@@ -770,7 +770,7 @@
             ]
         },
         "panthera": {
-            "set": "panthera",
+            "set": "panthera_prime_set",
             "parts": [
                 "panthera_prime_stock",
                 "panthera_prime_barrel",
@@ -779,7 +779,7 @@
             ]
         },
         "cernos": {
-            "set": "cernos",
+            "set": "cernos_prime_set",
             "parts": [
                 "cernos_prime_blueprint",
                 "cernos_prime_lower_limb",
@@ -789,7 +789,7 @@
             ]
         },
         "akbolto": {
-            "set": "akbolto",
+            "set": "akbolto_prime_set",
             "parts": [
                 "akbolto_prime_receiver",
                 "akbolto_prime_blueprint",
@@ -798,7 +798,7 @@
             ]
         },
         "nikana": {
-            "set": "nikana",
+            "set": "nikana_prime_set",
             "parts": [
                 "nikana_prime_hilt",
                 "nikana_prime_blueprint",
@@ -806,7 +806,7 @@
             ]
         },
         "spira": {
-            "set": "spira",
+            "set": "spira_prime_set",
             "parts": [
                 "spira_prime_blueprint",
                 "spira_prime_pouch",
@@ -814,7 +814,7 @@
             ]
         },
         "nami_skyla": {
-            "set": "nami_skyla",
+            "set": "nami_skyla_prime_set",
             "parts": [
                 "nami_skyla_prime_handle",
                 "nami_skyla_prime_blade",
@@ -822,7 +822,7 @@
             ]
         },
         "kronen": {
-            "set": "kronen",
+            "set": "kronen_prime_set",
             "parts": [
                 "kronen_prime_handle",
                 "kronen_prime_blueprint",
@@ -830,7 +830,7 @@
             ]
         },
         "tiberon": {
-            "set": "tiberon",
+            "set": "tiberon_prime_set",
             "parts": [
                 "tiberon_prime_blueprint",
                 "tiberon_prime_receiver",
@@ -839,7 +839,7 @@
             ]
         },
         "tipedo": {
-            "set": "tipedo",
+            "set": "tipedo_prime_set",
             "parts": [
                 "tipedo_prime_handle",
                 "tipedo_prime_blueprint",
@@ -847,7 +847,7 @@
             ]
         },
         "tekko": {
-            "set": "tekko",
+            "set": "tekko_prime_set",
             "parts": [
                 "tekko_prime_gauntlet",
                 "tekko_prime_blade",
@@ -855,7 +855,7 @@
             ]
         },
         "rubico": {
-            "set": "rubico",
+            "set": "rubico_prime_set",
             "parts": [
                 "rubico_prime_barrel",
                 "rubico_prime_receiver",
@@ -864,7 +864,7 @@
             ]
         },
         "burston": {
-            "set": "burston",
+            "set": "burston_prime_set",
             "parts": [
                 "burston_prime_receiver",
                 "burston_prime_blueprint",
@@ -873,7 +873,7 @@
             ]
         },
         "soma": {
-            "set": "soma",
+            "set": "soma_prime_set",
             "parts": [
                 "soma_prime_blueprint",
                 "soma_prime_receiver",
@@ -882,7 +882,7 @@
             ]
         },
         "akjagara": {
-            "set": "akjagara",
+            "set": "akjagara_prime_set",
             "parts": [
                 "akjagara_prime_receiver",
                 "akjagara_prime_link",
@@ -891,7 +891,7 @@
             ]
         },
         "gram": {
-            "set": "gram",
+            "set": "gram_prime_set",
             "parts": [
                 "gram_prime_handle",
                 "gram_prime_blueprint",
@@ -899,7 +899,7 @@
             ]
         },
         "pyrana": {
-            "set": "pyrana",
+            "set": "pyrana_prime_set",
             "parts": [
                 "pyrana_prime_blueprint",
                 "pyrana_prime_receiver",
@@ -907,7 +907,7 @@
             ]
         },
         "guandao": {
-            "set": "guandao",
+            "set": "guandao_prime_set",
             "parts": [
                 "guandao_prime_blueprint",
                 "guandao_prime_blade",
@@ -915,7 +915,7 @@
             ]
         },
         "zakti": {
-            "set": "zakti",
+            "set": "zakti_prime_set",
             "parts": [
                 "zakti_prime_blueprint",
                 "zakti_prime_barrel",
@@ -923,7 +923,7 @@
             ]
         },
         "bronco": {
-            "set": "bronco",
+            "set": "bronco_prime_set",
             "parts": [
                 "bronco_prime_barrel",
                 "bronco_prime_blueprint",
@@ -931,7 +931,7 @@
             ]
         },
         "galatine": {
-            "set": "galatine",
+            "set": "galatine_prime_set",
             "parts": [
                 "galatine_prime_blueprint",
                 "galatine_prime_blade",
@@ -939,7 +939,7 @@
             ]
         },
         "corinth": {
-            "set": "corinth",
+            "set": "corinth_prime_set",
             "parts": [
                 "corinth_prime_stock",
                 "corinth_prime_blueprint",
@@ -948,7 +948,7 @@
             ]
         },
         "pandero": {
-            "set": "pandero",
+            "set": "pandero_prime_set",
             "parts": [
                 "pandero_prime_barrel",
                 "pandero_prime_receiver",
@@ -956,7 +956,7 @@
             ]
         },
         "tenora": {
-            "set": "tenora",
+            "set": "tenora_prime_set",
             "parts": [
                 "tenora_prime_blueprint",
                 "tenora_prime_receiver",
@@ -965,7 +965,7 @@
             ]
         },
         "volnus": {
-            "set": "volnus",
+            "set": "volnus_prime_set",
             "parts": [
                 "volnus_prime_handle",
                 "volnus_prime_head",
@@ -973,7 +973,7 @@
             ]
         },
         "astilla": {
-            "set": "astilla",
+            "set": "astilla_prime_set",
             "parts": [
                 "astilla_prime_blueprint",
                 "astilla_prime_receiver",
@@ -982,7 +982,7 @@
             ]
         },
         "strun": {
-            "set": "strun",
+            "set": "strun_prime_set",
             "parts": [
                 "strun_prime_blueprint",
                 "strun_prime_receiver",
@@ -991,7 +991,7 @@
             ]
         },
         "magnus": {
-            "set": "magnus",
+            "set": "magnus_prime_set",
             "parts": [
                 "magnus_prime_blueprint",
                 "magnus_prime_receiver",
@@ -999,7 +999,7 @@
             ]
         },
         "knell": {
-            "set": "knell",
+            "set": "knell_prime_set",
             "parts": [
                 "knell_prime_barrel",
                 "knell_prime_blueprint",
@@ -1007,7 +1007,7 @@
             ]
         },
         "scourge": {
-            "set": "scourge",
+            "set": "scourge_prime_set",
             "parts": [
                 "scourge_prime_blade",
                 "scourge_prime_barrel",
@@ -1016,7 +1016,7 @@
             ]
         },
         "corvas": {
-            "set": "corvas",
+            "set": "corvas_prime_set",
             "parts": [
                 "corvas_prime_barrel",
                 "corvas_prime_blueprint",
@@ -1025,7 +1025,7 @@
             ]
         },
         "nagantaka": {
-            "set": "nagantaka",
+            "set": "nagantaka_prime_set",
             "parts": [
                 "nagantaka_prime_receiver",
                 "nagantaka_prime_blueprint",
@@ -1034,7 +1034,7 @@
             ]
         },
         "dual_keres": {
-            "set": "dual_keres",
+            "set": "dual_keres_prime_set",
             "parts": [
                 "dual_keres_prime_handle",
                 "dual_keres_prime_blueprint",
@@ -1042,7 +1042,7 @@
             ]
         },
         "hystrix": {
-            "set": "hystrix",
+            "set": "hystrix_prime_set",
             "parts": [
                 "hystrix_prime_blueprint",
                 "hystrix_prime_receiver",
@@ -1050,7 +1050,7 @@
             ]
         },
         "tatsu": {
-            "set": "tatsu",
+            "set": "tatsu_prime_set",
             "parts": [
                 "tatsu_prime_blade",
                 "tatsu_prime_blueprint",
@@ -1058,7 +1058,7 @@
             ]
         },
         "phantasma": {
-            "set": "phantasma",
+            "set": "phantasma_prime_set",
             "parts": [
                 "phantasma_prime_barrel",
                 "phantasma_prime_blueprint",
@@ -1067,7 +1067,7 @@
             ]
         },
         "afuris": {
-            "set": "afuris",
+            "set": "afuris_prime_set",
             "parts": [
                 "afuris_prime_barrel",
                 "afuris_prime_link",
@@ -1076,7 +1076,7 @@
             ]
         },
         "cobra_and_crane": {
-            "set": "cobra_and_crane",
+            "set": "cobra_and_crane_prime_set",
             "parts": [
                 "cobra_and_crane_prime_guard",
                 "cobra_and_crane_prime_blueprint",
@@ -1085,7 +1085,7 @@
             ]
         },
         "larkspur": {
-            "set": "larkspur",
+            "set": "larkspur_prime_set",
             "parts": [
                 "larkspur_prime_barrel",
                 "larkspur_prime_stock",
@@ -1094,7 +1094,7 @@
             ]
         },
         "gunsen": {
-            "set": "gunsen",
+            "set": "gunsen_prime_set",
             "parts": [
                 "gunsen_prime_blueprint",
                 "gunsen_prime_handle",
@@ -1102,7 +1102,7 @@
             ]
         },
         "fulmin": {
-            "set": "fulmin",
+            "set": "fulmin_prime_set",
             "parts": [
                 "fulmin_prime_blueprint",
                 "fulmin_prime_barrel",
@@ -1111,7 +1111,7 @@
             ]
         },
         "masseter": {
-            "set": "masseter",
+            "set": "masseter_prime_set",
             "parts": [
                 "masseter_prime_blueprint",
                 "masseter_prime_blade",
@@ -1119,7 +1119,7 @@
             ]
         },
         "zylok": {
-            "set": "zylok",
+            "set": "zylok_prime_set",
             "parts": [
                 "zylok_prime_blueprint",
                 "zylok_prime_barrel",
@@ -1127,7 +1127,7 @@
             ]
         },
         "akarius": {
-            "set": "akarius",
+            "set": "akarius_prime_set",
             "parts": [
                 "akarius_prime_blueprint",
                 "akarius_prime_barrel",
@@ -1136,7 +1136,7 @@
             ]
         },
         "acceltra": {
-            "set": "acceltra",
+            "set": "acceltra_prime_set",
             "parts": [
                 "acceltra_prime_blueprint",
                 "acceltra_prime_barrel",
@@ -1145,7 +1145,7 @@
             ]
         },
         "velox": {
-            "set": "velox",
+            "set": "velox_prime_set",
             "parts": [
                 "velox_prime_blueprint",
                 "velox_prime_barrel",
@@ -1153,7 +1153,7 @@
             ]
         },
         "okina": {
-            "set": "okina",
+            "set": "okina_prime_set",
             "parts": [
                 "okina_prime_blueprint",
                 "okina_prime_handle",
@@ -1161,14 +1161,14 @@
             ]
         },
         "akmagnus": {
-            "set": "akmagnus",
+            "set": "akmagnus_prime_set",
             "parts": [
                 "akmagnus_prime_blueprint",
                 "akmagnus_prime_link"
             ]
         },
         "epitaph": {
-            "set": "epitaph",
+            "set": "epitaph_prime_set",
             "parts": [
                 "epitaph_prime_blueprint",
                 "epitaph_prime_barrel",
@@ -1176,7 +1176,7 @@
             ]
         },
         "trumna": {
-            "set": "trumna",
+            "set": "trumna_prime_set",
             "parts": [
                 "trumna_prime_blueprint",
                 "trumna_prime_barrel",
@@ -1185,7 +1185,7 @@
             ]
         },
         "quassus": {
-            "set": "quassus",
+            "set": "quassus_prime_set",
             "parts": [
                 "quassus_prime_blueprint",
                 "quassus_prime_handle",
@@ -1193,7 +1193,7 @@
             ]
         },
         "cedo": {
-            "set": "cedo",
+            "set": "cedo_prime_set",
             "parts": [
                 "cedo_prime_blueprint",
                 "cedo_prime_receiver",
@@ -1202,7 +1202,7 @@
             ]
         },
         "dual_zoren": {
-            "set": "dual_zoren",
+            "set": "dual_zoren_prime_set",
             "parts": [
                 "dual_zoren_prime_blueprint",
                 "dual_zoren_prime_handle",
@@ -1210,7 +1210,7 @@
             ]
         },
         "daikyu": {
-            "set": "daikyu",
+            "set": "daikyu_prime_set",
             "parts": [
                 "daikyu_prime_blueprint",
                 "daikyu_prime_lower_limb",
@@ -1220,7 +1220,7 @@
             ]
         },
         "kompressa": {
-            "set": "kompressa",
+            "set": "kompressa_prime_set",
             "parts": [
                 "kompressa_prime_blueprint",
                 "kompressa_prime_barrel",
@@ -1228,7 +1228,7 @@
             ]
         },
         "vadarya": {
-            "set": "vadarya",
+            "set": "vadarya_prime_set",
             "parts": [
                 "vadarya_prime_blueprint",
                 "vadarya_prime_barrel",
@@ -1237,7 +1237,7 @@
             ]
         },
         "venato": {
-            "set": "venato",
+            "set": "venato_prime_set",
             "parts": [
                 "venato_prime_blueprint",
                 "venato_prime_blade",
@@ -1245,7 +1245,7 @@
             ]
         },
         "alternox": {
-            "set": "alternox",
+            "set": "alternox_prime_set",
             "parts": [
                 "alternox_prime_blueprint",
                 "alternox_prime_barrel",
@@ -1254,7 +1254,7 @@
             ]
         },
         "kestrel": {
-            "set": "kestrel",
+            "set": "kestrel_prime_set",
             "parts": [
                 "kestrel_prime_blueprint",
                 "kestrel_prime_grip",
@@ -1264,205 +1264,2930 @@
     },
     "companions": {
         "helios": {
-            "set": "helios",
+            "set": "helios_prime_set",
             "parts": [
                 "helios_prime_blueprint"
             ]
         },
         "carrier": {
-            "set": "carrier",
+            "set": "carrier_prime_set",
             "parts": [
                 "carrier_prime_blueprint"
             ]
         },
         "dethcube": {
-            "set": "dethcube",
+            "set": "dethcube_prime_set",
             "parts": [
                 "dethcube_prime_blueprint"
             ]
         },
         "wyrm": {
-            "set": "wyrm",
+            "set": "wyrm_prime_set",
             "parts": [
                 "wyrm_prime_blueprint"
             ]
         },
         "shade": {
-            "set": "shade",
+            "set": "shade_prime_set",
             "parts": [
                 "shade_prime_blueprint"
             ]
         },
         "nautilus": {
-            "set": "nautilus",
+            "set": "nautilus_prime_set",
             "parts": [
                 "nautilus_prime_blueprint"
             ]
         }
     },
     "arcanes": [
-        "arcane_barrier",
-        "arcane_ice",
-        "virtuos_strike",
-        "pax_soar",
-        "arcane_trickery",
-        "arcane_velocity",
-        "arcane_resistance",
-        "arcane_pulse",
-        "magus_vigor",
-        "magus_repair",
-        "magus_glitch",
-        "magus_overload",
-        "arcane_fury",
-        "arcane_aegis",
-        "arcane_consequence",
-        "arcane_energize",
-        "arcane_strike",
-        "arcane_nullifier",
-        "arcane_victory",
-        "arcane_eruption",
-        "arcane_awakening",
-        "arcane_ultimatum",
-        "magus_anomaly",
-        "virtuos_surge",
-        "arcane_deflection",
-        "exodia_valor",
-        "arcane_grace",
-        "virtuos_fury",
-        "virtuos_null",
-        "virtuos_tempo",
-        "exodia_force",
-        "virtuos_ghost",
-        "virtuos_forge",
-        "pax_seeker",
-        "virtuos_spike",
-        "arcane_tempo",
-        "arcane_agility",
-        "arcane_bodyguard",
-        "arcane_primary_charger",
-        "arcane_blade_charger",
-        "magus_drive",
-        "magus_cadence",
-        "exodia_brave",
-        "exodia_hunt",
-        "exodia_triumph",
-        "magus_nourish",
-        "virtuos_shadow",
-        "arcane_guardian",
-        "magus_accelerant",
-        "arcane_healing",
-        "arcane_warmth",
-        "virtuos_trojan",
-        "exodia_contagion",
-        "exodia_epidemic",
-        "theorem_demulcent",
-        "theorem_infection",
-        "residual_shock",
-        "magus_replenish",
-        "magus_cloud",
-        "arcane_acceleration",
-        "arcane_arachne",
-        "arcane_momentum",
-        "arcane_precision",
-        "exodia_might",
-        "pax_bolt",
-        "magus_melt",
-        "magus_firewall",
-        "magus_destruct",
-        "magus_husk",
-        "magus_elevate",
-        "residual_boils",
-        "residual_viremia",
-        "residual_malodor",
-        "theorem_contagion",
-        "arcane_tanker",
-        "arcane_pistoleer",
-        "pax_charge",
-        "magus_revert",
-        "arcane_avenger",
-        "arcane_phantasm",
-        "arcane_rage",
-        "magus_lockdown",
-        "secondary_merciless",
-        "primary_merciless",
-        "secondary_dexterity",
-        "secondary_deadhead",
-        "primary_deadhead",
-        "primary_dexterity",
-        "emergence_dissipate",
-        "molt_vigor",
-        "emergence_renewed",
-        "eternal_eradicate",
-        "molt_efficiency",
-        "emergence_savior",
-        "cascadia_overcharge",
-        "eternal_onslaught",
-        "molt_reconstruct",
-        "molt_augmented",
-        "eternal_logistics",
-        "cascadia_empowered",
-        "fractalized_reset",
-        "cascadia_flare",
-        "cascadia_accuracy",
-        "conjunction_voltage",
-        "primary_frostbite",
-        "arcane_rise",
-        "arcane_blessing",
-        "primary_plated_round",
-        "arcane_steadfast",
-        "arcane_double_back",
-        "secondary_kinship",
-        "secondary_encumber",
-        "primary_obstruct",
-        "arcane_intention",
-        "secondary_shiver",
-        "longbow_sharpshot",
-        "shotgun_vendetta",
-        "magus_aggress",
-        "arcane_reaper",
-        "primary_exhilarate",
-        "arcane_power_ramp",
-        "primary_blight",
-        "secondary_outburst",
-        "akimbo_slip_shot",
-        "melee_influence",
-        "melee_retaliation",
-        "melee_crescendo",
-        "melee_vortex",
-        "melee_animosity",
-        "melee_exposure",
-        "melee_duplicate",
-        "melee_fortification",
-        "arcane_ice_storm",
-        "secondary_surge",
-        "arcane_battery",
-        "secondary_fortifier",
-        "melee_afflictions",
-        "arcane_crepuscular",
-        "arcane_impetus",
-        "primary_crux",
-        "secondary_enervate",
-        "melee_doughty",
-        "arcane_camisado",
-        "arcane_bellicose",
-        "arcane_truculence",
-        "arcane_escapist",
-        "arcane_hot_shot",
-        "arcane_universal_fallout",
-        "arcane_persistence",
-        "arcane_expertise",
-        "arcane_circumvent",
-        "primary_bulwark",
-        "primary_overcharge",
-        "secondary_irradiate",
-        "primary_debilitate",
-        "arcane_concentration",
-        "melee_careen",
-        "zid-an-sek-eel",
-        "zid-an-asheir",
-        "zid-an-uskos",
-        "zid-an-haras",
-        "zid-an-osbok"
+        {
+            "id": "551085aee77989729e1416d0",
+            "slug": "arcane_barrier",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InstantShieldOnDamage",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Barrier",
+                    "icon": "items/images/en/arcane_barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.png",
+                    "thumb": "items/images/en/thumbs/arcane_barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085c9e7798972b4a2b206",
+            "slug": "arcane_ice",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FireProcResist",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Ice",
+                    "icon": "items/images/en/arcane_ice.d3cb62ba9923dcf396c854fb857e5718.png",
+                    "thumb": "items/images/en/thumbs/arcane_ice.d3cb62ba9923dcf396c854fb857e5718.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750c6c4655012038ddcb",
+            "slug": "virtuos_strike",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedCriticalDamageOnCriticalStrike",
+            "tags": [
+                "operator",
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Strike",
+                    "icon": "items/images/en/virtuos_strike.9bb469736054bb8b5c4d55628d49e83e.png",
+                    "thumb": "items/images/en/thumbs/virtuos_strike.9bb469736054bb8b5c4d55628d49e83e.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5bf54b483ffcc7066e7eb856",
+            "slug": "pax_soar",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/EyeInTheSky",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Pax Soar",
+                    "icon": "items/images/en/pax_soar.b1cec46096b57bd8c82c974fbd376baa.png",
+                    "thumb": "items/images/en/thumbs/pax_soar.b1cec46096b57bd8c82c974fbd376baa.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085ece7798972cb579c3e",
+            "slug": "arcane_trickery",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/InvisibilityOnFinisher",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Trickery",
+                    "icon": "items/images/en/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.png",
+                    "thumb": "items/images/en/thumbs/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "566751d35dcbc186f0536bd6",
+            "slug": "arcane_velocity",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Velocity",
+                    "icon": "items/images/en/arcane_velocity.ea37edd24f8212ce4bb283205658829b.png",
+                    "thumb": "items/images/en/thumbs/arcane_velocity.ea37edd24f8212ce4bb283205658829b.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "55a46c61e779890338bfadd8",
+            "slug": "arcane_resistance",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ElectricityProcResist",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Resistance",
+                    "icon": "items/images/en/arcane_resistance.4ca1f093ba47158b7f2641f3508e9b99.png",
+                    "thumb": "items/images/en/thumbs/arcane_resistance.4ca1f093ba47158b7f2641f3508e9b99.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "56153e9bb66f837074af99c5",
+            "slug": "arcane_pulse",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialHealOnHealthPickup",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Pulse",
+                    "icon": "items/images/en/arcane_pulse.9f9a959b60addb3377fec907f8c5d35b.png",
+                    "thumb": "items/images/en/thumbs/arcane_pulse.9f9a959b60addb3377fec907f8c5d35b.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a0475086c4655012038ddbf",
+            "slug": "magus_vigor",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthOnOperatorMode",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Vigor",
+                    "icon": "items/images/en/magus_vigor.473998d768bd420877df79cdd55c6188.png",
+                    "thumb": "items/images/en/thumbs/magus_vigor.473998d768bd420877df79cdd55c6188.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda1b14a8e4006b1dad92",
+            "slug": "magus_repair",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidMode",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Repair",
+                    "icon": "items/images/en/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.png",
+                    "thumb": "items/images/en/thumbs/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda1e14a8e4006b1dad95",
+            "slug": "magus_glitch",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/NoPenaltyOnDeath",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Glitch",
+                    "icon": "items/images/en/magus_glitch.280ca4675b8d1d36f742493903bf7c3c.png",
+                    "thumb": "items/images/en/thumbs/magus_glitch.280ca4675b8d1d36f742493903bf7c3c.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda0814a8e4006b1dad63",
+            "slug": "magus_overload",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/RobotStunOnBlast",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Overload",
+                    "icon": "items/images/en/magus_overload.c575b29c15d999083923ee609dcda264.png",
+                    "thumb": "items/images/en/thumbs/magus_overload.c575b29c15d999083923ee609dcda264.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "56463c24b66f8358acce4451",
+            "slug": "arcane_fury",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneMeleeDamageOnCrit",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Fury",
+                    "icon": "items/images/en/arcane_fury.221e1166ea44c6d2473f59b7cfa4396a.png",
+                    "thumb": "items/images/en/thumbs/arcane_fury.221e1166ea44c6d2473f59b7cfa4396a.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "566750375dcbc186f0536bce",
+            "slug": "arcane_aegis",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GolemArcaneShieldRegenOnDamage",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Aegis",
+                    "icon": "items/images/en/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.png",
+                    "thumb": "items/images/en/thumbs/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5667510e5dcbc186f0536bd0",
+            "slug": "arcane_consequence",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneAimGlideOnHeadshot",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Consequence",
+                    "icon": "items/images/en/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.png",
+                    "thumb": "items/images/en/thumbs/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "566751295dcbc186f0536bd1",
+            "slug": "arcane_energize",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneRadialEnergyOnEnergyPickup",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Energize",
+                    "icon": "items/images/en/arcane_energize.e5f85590ceb29db89c6753dfdf823485.png",
+                    "thumb": "items/images/en/thumbs/arcane_energize.e5f85590ceb29db89c6753dfdf823485.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085e4e7798972c7353fb0",
+            "slug": "arcane_strike",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Strike",
+                    "icon": "items/images/en/arcane_strike.27c40994b55f506fe736175c9cebbf0e.png",
+                    "thumb": "items/images/en/thumbs/arcane_strike.27c40994b55f506fe736175c9cebbf0e.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "56153e78b66f83706f01716f",
+            "slug": "arcane_nullifier",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MagneticProcResist",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Nullifier",
+                    "icon": "items/images/en/arcane_nullifier.2fa3bc7cd7e902ae797f175896f10f97.png",
+                    "thumb": "items/images/en/thumbs/arcane_nullifier.2fa3bc7cd7e902ae797f175896f10f97.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "55a46ad5e77989029d9706ee",
+            "slug": "arcane_victory",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealthRegenOnHeadshot",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Victory",
+                    "icon": "items/images/en/arcane_victory.2e3e7da2e7600a0e376eae98c3fd80a9.png",
+                    "thumb": "items/images/en/thumbs/arcane_victory.2e3e7da2e7600a0e376eae98c3fd80a9.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085b5e7798972a3b857aa",
+            "slug": "arcane_eruption",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialKnockdownOnEnergyPickup",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Eruption",
+                    "icon": "items/images/en/arcane_eruption.96e2b7f03322df6295089a9dd442df86.png",
+                    "thumb": "items/images/en/thumbs/arcane_eruption.96e2b7f03322df6295089a9dd442df86.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085a6e77989729ab10a35",
+            "slug": "arcane_awakening",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/PistolDamageOnReload",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Awakening",
+                    "icon": "items/images/en/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.png",
+                    "thumb": "items/images/en/thumbs/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "566751b75dcbc186f0536bd5",
+            "slug": "arcane_ultimatum",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneArmorOnFinisher",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Ultimatum",
+                    "icon": "items/images/en/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.png",
+                    "thumb": "items/images/en/thumbs/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda1314a8e4006b1dad81",
+            "slug": "magus_anomaly",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/PullOnTransferenceIn",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Anomaly",
+                    "icon": "items/images/en/magus_anomaly.3f06b6fc67779e08e0f55c9d04db0da2.png",
+                    "thumb": "items/images/en/thumbs/magus_anomaly.3f06b6fc67779e08e0f55c9d04db0da2.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda1414a8e4006b1dad83",
+            "slug": "virtuos_surge",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToElectricDamage",
+            "tags": [
+                "common",
+                "arcane_enhancement",
+                "operator"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Surge",
+                    "icon": "items/images/en/virtuos_surge.1047626f95c989bdd5ee977d1eca05d5.png",
+                    "thumb": "items/images/en/thumbs/virtuos_surge.1047626f95c989bdd5ee977d1eca05d5.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "55a46c43e77989032fa38f11",
+            "slug": "arcane_deflection",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SlashProcResist",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Deflection",
+                    "icon": "items/images/en/arcane_deflection.6ee1147da81f3a9f705621012c560832.png",
+                    "thumb": "items/images/en/thumbs/arcane_deflection.6ee1147da81f3a9f705621012c560832.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a0475086c4655012038ddc0",
+            "slug": "exodia_valor",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritChannelingDamage",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Exodia Valor",
+                    "icon": "items/images/en/exodia_valor.6944e42105fc09e60c8a843acedfd7cf.png",
+                    "thumb": "items/images/en/thumbs/exodia_valor.6944e42105fc09e60c8a843acedfd7cf.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "55a46a58e77989027c23b89c",
+            "slug": "arcane_grace",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/HealthRegenOnDamage",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Grace",
+                    "icon": "items/images/en/arcane_grace.3e4f746417d977c6ac5f2c9edd71ada0.png",
+                    "thumb": "items/images/en/thumbs/arcane_grace.3e4f746417d977c6ac5f2c9edd71ada0.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750a6c4655012038ddc6",
+            "slug": "virtuos_fury",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc",
+            "tags": [
+                "operator",
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Fury",
+                    "icon": "items/images/en/virtuos_fury.f71902bf678d290ad03b625dc35834ca.png",
+                    "thumb": "items/images/en/thumbs/virtuos_fury.f71902bf678d290ad03b625dc35834ca.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750a6c4655012038ddc7",
+            "slug": "virtuos_null",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill",
+            "tags": [
+                "common",
+                "arcane_enhancement",
+                "operator"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Null",
+                    "icon": "items/images/en/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.png",
+                    "thumb": "items/images/en/thumbs/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750b6c4655012038ddc8",
+            "slug": "virtuos_tempo",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/AttackSpeedOnKill",
+            "tags": [
+                "common",
+                "arcane_enhancement",
+                "operator"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Tempo",
+                    "icon": "items/images/en/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.png",
+                    "thumb": "items/images/en/thumbs/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750b6c4655012038ddc9",
+            "slug": "exodia_force",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusTriggerRadialDamage",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Exodia Force",
+                    "icon": "items/images/en/exodia_force.3777cf3132503f972624ac56c1731743.png",
+                    "thumb": "items/images/en/thumbs/exodia_force.3777cf3132503f972624ac56c1731743.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750e6c4655012038ddd0",
+            "slug": "virtuos_ghost",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot",
+            "tags": [
+                "operator",
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Ghost",
+                    "icon": "items/images/en/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.png",
+                    "thumb": "items/images/en/thumbs/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda1914a8e4006b1dad8c",
+            "slug": "virtuos_forge",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage",
+            "tags": [
+                "operator",
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Forge",
+                    "icon": "items/images/en/virtuos_forge.51355a12fdc05c779f027af6caa6f157.png",
+                    "thumb": "items/images/en/thumbs/virtuos_forge.51355a12fdc05c779f027af6caa6f157.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5bf54b483ffcc7066e7eb855",
+            "slug": "pax_seeker",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SeekerProjOnHeadshotKill",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Pax Seeker",
+                    "icon": "items/images/en/pax_seeker.8e3a7fb880c0e047f9a7d60ca4fbfb84.png",
+                    "thumb": "items/images/en/thumbs/pax_seeker.8e3a7fb880c0e047f9a7d60ca4fbfb84.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda0d14a8e4006b1dad6e",
+            "slug": "virtuos_spike",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToPunctureDamage",
+            "tags": [
+                "common",
+                "arcane_enhancement",
+                "operator"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Spike",
+                    "icon": "items/images/en/virtuos_spike.8e4996323b5d41abf0354b39741c0dad.png",
+                    "thumb": "items/images/en/thumbs/virtuos_spike.8e4996323b5d41abf0354b39741c0dad.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5667519a5dcbc186f0536bd4",
+            "slug": "arcane_tempo",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneShotgunSpeedOnCrit",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Tempo",
+                    "icon": "items/images/en/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.png",
+                    "thumb": "items/images/en/thumbs/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "55108594e77989728d5100c6",
+            "slug": "arcane_agility",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnDamage",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Agility",
+                    "icon": "items/images/en/arcane_agility.2274fd115d389b990a55f5a4ff864773.png",
+                    "thumb": "items/images/en/thumbs/arcane_agility.2274fd115d389b990a55f5a4ff864773.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5d8765de7ea27b08950c13b8",
+            "slug": "arcane_bodyguard",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealCompanionOnSixMeleeKills",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Bodyguard",
+                    "icon": "items/images/en/arcane_bodyguard.bedeb0f2ceb9e91f99f682b990c09648.png",
+                    "thumb": "items/images/en/thumbs/arcane_bodyguard.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5d8765de7ea27b08950c13bf",
+            "slug": "arcane_primary_charger",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDmgOnMeleeKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Primary Charger",
+                    "icon": "items/images/en/arcane_primary_charger.bedeb0f2ceb9e91f99f682b990c09648.png",
+                    "thumb": "items/images/en/thumbs/arcane_primary_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5d8765de7ea27b08950c13c4",
+            "slug": "arcane_blade_charger",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Blade Charger",
+                    "icon": "items/images/en/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.png",
+                    "thumb": "items/images/en/thumbs/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda2014a8e4006b1dad98",
+            "slug": "magus_drive",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HoverboardSpeedOnTransferenceIn",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Drive",
+                    "icon": "items/images/en/magus_drive.618edddcaa1b6d427526a4fe89063deb.png",
+                    "thumb": "items/images/en/thumbs/magus_drive.618edddcaa1b6d427526a4fe89063deb.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a0475076c4655012038ddbe",
+            "slug": "magus_cadence",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Cadence",
+                    "icon": "items/images/en/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.png",
+                    "thumb": "items/images/en/thumbs/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a0475086c4655012038ddc1",
+            "slug": "exodia_brave",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ChannelKillEnergyRate",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Exodia Brave",
+                    "icon": "items/images/en/exodia_brave.46667ed53d81bf2cc9aacde46019c7e9.png",
+                    "thumb": "items/images/en/thumbs/exodia_brave.46667ed53d81bf2cc9aacde46019c7e9.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a0475096c4655012038ddc2",
+            "slug": "exodia_hunt",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GroundSlamPull",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Exodia Hunt",
+                    "icon": "items/images/en/exodia_hunt.991da5e49a00e69755b5c7948f5448f6.png",
+                    "thumb": "items/images/en/thumbs/exodia_hunt.991da5e49a00e69755b5c7948f5448f6.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a0475096c4655012038ddc3",
+            "slug": "exodia_triumph",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusChannelingDamage",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Exodia Triumph",
+                    "icon": "items/images/en/exodia_triumph.fe6f1256127be984a80deb48afd26faa.png",
+                    "thumb": "items/images/en/thumbs/exodia_triumph.fe6f1256127be984a80deb48afd26faa.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a0475096c4655012038ddc4",
+            "slug": "magus_nourish",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceOut",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Nourish",
+                    "icon": "items/images/en/magus_nourish.a33f07304a72500072d20d13258e119b.png",
+                    "thumb": "items/images/en/thumbs/magus_nourish.a33f07304a72500072d20d13258e119b.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750a6c4655012038ddc5",
+            "slug": "virtuos_shadow",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/CriticalChanceOnHeadshot",
+            "tags": [
+                "operator",
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Shadow",
+                    "icon": "items/images/en/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.png",
+                    "thumb": "items/images/en/thumbs/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085bce7798972a9b2fc6e",
+            "slug": "arcane_guardian",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ArmourOnDamage",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Guardian",
+                    "icon": "items/images/en/arcane_guardian.5d8874dfd06eaaf9aaceef59d99213b3.png",
+                    "thumb": "items/images/en/thumbs/arcane_guardian.5d8874dfd06eaaf9aaceef59d99213b3.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda1114a8e4006b1dad78",
+            "slug": "magus_accelerant",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatResistOnBlast",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Accelerant",
+                    "icon": "items/images/en/magus_accelerant.3d50149a79c8ec5ab2a2499da47244e2.png",
+                    "thumb": "items/images/en/thumbs/magus_accelerant.3d50149a79c8ec5ab2a2499da47244e2.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085c3e7798972ae2819db",
+            "slug": "arcane_healing",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Healing",
+                    "icon": "items/images/en/arcane_healing.acadb2bf20e9dad0e620e8641110a928.png",
+                    "thumb": "items/images/en/thumbs/arcane_healing.acadb2bf20e9dad0e620e8641110a928.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085f4e7798972d0eaf1ad",
+            "slug": "arcane_warmth",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FreezeProcResist",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Warmth",
+                    "icon": "items/images/en/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.png",
+                    "thumb": "items/images/en/thumbs/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bd9fd14a8e4006b1dad51",
+            "slug": "virtuos_trojan",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToViralDamage",
+            "tags": [
+                "operator",
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Virtuos Trojan",
+                    "icon": "items/images/en/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.png",
+                    "thumb": "items/images/en/thumbs/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a26c31dc2c9e903a8381330",
+            "slug": "exodia_contagion",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneProjectileOnJump",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Exodia Contagion",
+                    "icon": "items/images/en/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.png",
+                    "thumb": "items/images/en/thumbs/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a26c320c2c9e903a8381331",
+            "slug": "exodia_epidemic",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneShockwaveOnJump",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Exodia Epidemic",
+                    "icon": "items/images/en/exodia_epidemic.3807403ba71019a6186468b251bc1d3a.png",
+                    "thumb": "items/images/en/thumbs/exodia_epidemic.3807403ba71019a6186468b251bc1d3a.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5fb84767c34da3004797d53b",
+            "slug": "theorem_demulcent",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Theorem Demulcent",
+                    "icon": "items/images/en/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.png",
+                    "thumb": "items/images/en/thumbs/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5fb84767c34da3004797d540",
+            "slug": "theorem_infection",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CompanionDamageOnResidualContact",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Theorem Infection",
+                    "icon": "items/images/en/theorem_infection.1b72a86a16929c0a3c0848ca448e8783.png",
+                    "thumb": "items/images/en/thumbs/theorem_infection.1b72a86a16929c0a3c0848ca448e8783.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5fb84768c34da3004797d54b",
+            "slug": "residual_shock",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LightningStrikeOnKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Residual Shock",
+                    "icon": "items/images/en/residual_shock.931038e226263ca655a8e3e4eeb76cf6.png",
+                    "thumb": "items/images/en/thumbs/residual_shock.931038e226263ca655a8e3e4eeb76cf6.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750d6c4655012038ddcc",
+            "slug": "magus_replenish",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidDash",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Replenish",
+                    "icon": "items/images/en/magus_replenish.b65658da1b4a7e7090c6439e28476d39.png",
+                    "thumb": "items/images/en/thumbs/magus_replenish.b65658da1b4a7e7090c6439e28476d39.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750e6c4655012038ddcf",
+            "slug": "magus_cloud",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ImmunityFallDamageOnVoidDash",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Cloud",
+                    "icon": "items/images/en/magus_cloud.911f21546c5c95ceb5e23bb5127fd9e4.png",
+                    "thumb": "items/images/en/thumbs/magus_cloud.911f21546c5c95ceb5e23bb5127fd9e4.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5510858ae779897288827a4b",
+            "slug": "arcane_acceleration",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunSpeedOnCrit",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Acceleration",
+                    "icon": "items/images/en/arcane_acceleration.452ae9fb49a9a6f7a1207133be620b42.png",
+                    "thumb": "items/images/en/thumbs/arcane_acceleration.452ae9fb49a9a6f7a1207133be620b42.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "566750e45dcbc186f0536bcf",
+            "slug": "arcane_arachne",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneBonusDamageOnWallLatch",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Arachne",
+                    "icon": "items/images/en/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.png",
+                    "thumb": "items/images/en/thumbs/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5667516b5dcbc186f0536bd2",
+            "slug": "arcane_momentum",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneSniperSpeedOnCrit",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Momentum",
+                    "icon": "items/images/en/arcane_momentum.f551dd91689f3169160aafecddeede24.png",
+                    "thumb": "items/images/en/thumbs/arcane_momentum.f551dd91689f3169160aafecddeede24.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "566751815dcbc186f0536bd3",
+            "slug": "arcane_precision",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolDamageOnHeadshot",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Precision",
+                    "icon": "items/images/en/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.png",
+                    "thumb": "items/images/en/thumbs/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750d6c4655012038ddcd",
+            "slug": "exodia_might",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/FinisherLifesteal",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Exodia Might",
+                    "icon": "items/images/en/exodia_might.255cbe521efd3aa7312e90e523b3c9ed.png",
+                    "thumb": "items/images/en/thumbs/exodia_might.255cbe521efd3aa7312e90e523b3c9ed.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5bf54b483ffcc7066e7eb854",
+            "slug": "pax_bolt",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/EnergyEfficiencyOnHeadshot",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Pax Bolt",
+                    "icon": "items/images/en/pax_bolt.c2a3984cf53e69467a87424c1ca2acd4.png",
+                    "thumb": "items/images/en/thumbs/pax_bolt.c2a3984cf53e69467a87424c1ca2acd4.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bd9f814a8e4006b1dad48",
+            "slug": "magus_melt",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatDamageOnDash",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Melt",
+                    "icon": "items/images/en/magus_melt.4b9f09f76e8d5c38d170209ecfda3481.png",
+                    "thumb": "items/images/en/thumbs/magus_melt.4b9f09f76e8d5c38d170209ecfda3481.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda1014a8e4006b1dad75",
+            "slug": "magus_firewall",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/DamageReductionOnVoidMode",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Firewall",
+                    "icon": "items/images/en/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.png",
+                    "thumb": "items/images/en/thumbs/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda2414a8e4006b1dada6",
+            "slug": "magus_destruct",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ProcResistOnBlast",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Destruct",
+                    "icon": "items/images/en/magus_destruct.5d566d3caf8a4d577f3316224757d24f.png",
+                    "thumb": "items/images/en/thumbs/magus_destruct.5d566d3caf8a4d577f3316224757d24f.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750c6c4655012038ddca",
+            "slug": "magus_husk",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ArmourOnOperatorMode",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Husk",
+                    "icon": "items/images/en/magus_husk.e06a95548913c871fb0bd03a1691f917.png",
+                    "thumb": "items/images/en/thumbs/magus_husk.e06a95548913c871fb0bd03a1691f917.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5a04750e6c4655012038ddce",
+            "slug": "magus_elevate",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceIn",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Elevate",
+                    "icon": "items/images/en/magus_elevate.c2f5a10648687f0c0fc4f66f5df6b76f.png",
+                    "thumb": "items/images/en/thumbs/magus_elevate.c2f5a10648687f0c0fc4f66f5df6b76f.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5fb84767c34da3004797d53e",
+            "slug": "residual_boils",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BurningCystOnKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Residual Boils",
+                    "icon": "items/images/en/residual_boils.93e9e7547e47068d710a638a90529a79.png",
+                    "thumb": "items/images/en/thumbs/residual_boils.93e9e7547e47068d710a638a90529a79.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5fb84768c34da3004797d54e",
+            "slug": "residual_viremia",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ToxicBloodOnKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Residual Viremia",
+                    "icon": "items/images/en/residual_viremia.e6aabdd66ee9c050d79913a2b0eee1d2.png",
+                    "thumb": "items/images/en/thumbs/residual_viremia.e6aabdd66ee9c050d79913a2b0eee1d2.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5fb84768c34da3004797d54f",
+            "slug": "residual_malodor",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Residual Malodor",
+                    "icon": "items/images/en/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.png",
+                    "thumb": "items/images/en/thumbs/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5fb84769c34da3004797d554",
+            "slug": "theorem_contagion",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Theorem Contagion",
+                    "icon": "items/images/en/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.png",
+                    "thumb": "items/images/en/thumbs/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5d8765df7ea27b08950c13ca",
+            "slug": "arcane_tanker",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnHeavyGunEquipped",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Tanker",
+                    "icon": "items/images/en/arcane_tanker.bedeb0f2ceb9e91f99f682b990c09648.png",
+                    "thumb": "items/images/en/thumbs/arcane_tanker.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5d8765df7ea27b08950c13cc",
+            "slug": "arcane_pistoleer",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Pistoleer",
+                    "icon": "items/images/en/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.png",
+                    "thumb": "items/images/en/thumbs/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5bf54b473ffcc7066e7eb853",
+            "slug": "pax_charge",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BulletToBattery",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 3,
+            "i18n": {
+                "en": {
+                    "name": "Pax Charge",
+                    "icon": "items/images/en/pax_charge.99b9e313690e8366285d0585c5da5926.png",
+                    "thumb": "items/images/en/thumbs/pax_charge.99b9e313690e8366285d0585c5da5926.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bd9fe14a8e4006b1dad53",
+            "slug": "magus_revert",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ReverseOnDash",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Revert",
+                    "icon": "items/images/en/magus_revert.5265627e260f59579d8073a749956ce5.png",
+                    "thumb": "items/images/en/thumbs/magus_revert.5265627e260f59579d8073a749956ce5.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5510859ce779897292ba1efc",
+            "slug": "arcane_avenger",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CritChanceOnDamage",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Avenger",
+                    "icon": "items/images/en/arcane_avenger.181b3606583aa0b904a1ebf0b6864e82.png",
+                    "thumb": "items/images/en/thumbs/arcane_avenger.181b3606583aa0b904a1ebf0b6864e82.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085d6e7798972bcb28132",
+            "slug": "arcane_phantasm",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnParry",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Phantasm",
+                    "icon": "items/images/en/arcane_phantasm.78366e4d487988a78d128a4822b4f824.png",
+                    "thumb": "items/images/en/thumbs/arcane_phantasm.78366e4d487988a78d128a4822b4f824.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "551085dde7798972c228aed9",
+            "slug": "arcane_rage",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunDamageOnHeadshot",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Rage",
+                    "icon": "items/images/en/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.png",
+                    "thumb": "items/images/en/thumbs/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "5c1bda0f14a8e4006b1dad72",
+            "slug": "magus_lockdown",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/TetherMineOnDash",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Lockdown",
+                    "icon": "items/images/en/magus_lockdown.db5242eedb9db87b7e8638c3a2aa4cce.png",
+                    "thumb": "items/images/en/thumbs/magus_lockdown.db5242eedb9db87b7e8638c3a2aa4cce.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "60e70f79479445008f272572",
+            "slug": "secondary_merciless",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Merciless",
+                    "icon": "items/images/en/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.png",
+                    "thumb": "items/images/en/thumbs/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "60e70f79479445008f272573",
+            "slug": "primary_merciless",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Merciless",
+                    "icon": "items/images/en/primary_merciless.baca700cca91762be6465c5f52584fa7.png",
+                    "thumb": "items/images/en/thumbs/primary_merciless.baca700cca91762be6465c5f52584fa7.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "60e70f7a479445008f27257d",
+            "slug": "secondary_dexterity",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnMeleeKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Dexterity",
+                    "icon": "items/images/en/secondary_dexterity.8fa0cf692f8f0e2f900e4175c5613460.png",
+                    "thumb": "items/images/en/thumbs/secondary_dexterity.8fa0cf692f8f0e2f900e4175c5613460.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "60e70f7f479445008f27259d",
+            "slug": "secondary_deadhead",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnNoMelee",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Deadhead",
+                    "icon": "items/images/en/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.png",
+                    "thumb": "items/images/en/thumbs/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "60e70f80479445008f2725a4",
+            "slug": "primary_deadhead",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnNoMelee",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Deadhead",
+                    "icon": "items/images/en/primary_deadhead.75738d3c111067da8e673bf8000a6710.png",
+                    "thumb": "items/images/en/thumbs/primary_deadhead.75738d3c111067da8e673bf8000a6710.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "60e70f80479445008f2725a6",
+            "slug": "primary_dexterity",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnMeleeKill",
+            "tags": [
+                "arcane_enhancement",
+                "rare"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Dexterity",
+                    "icon": "items/images/en/primary_dexterity.accc2c9a2780152f354696b2549814bc.png",
+                    "thumb": "items/images/en/thumbs/primary_dexterity.accc2c9a2780152f354696b2549814bc.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "626a1978f40db600660a1d7a",
+            "slug": "emergence_dissipate",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/EnergyOnGhostDissipate",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Emergence Dissipate",
+                    "icon": "items/images/en/emergence_dissipate.83218167b319a330d85249791386f866.png",
+                    "thumb": "items/images/en/thumbs/emergence_dissipate.83218167b319a330d85249791386f866.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "626a1978f40db600660a1d7b",
+            "slug": "molt_vigor",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/WarframeOnOperatorAbilityPowerStrength",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Molt Vigor",
+                    "icon": "items/images/en/molt_vigor.51b7ce183f508eb27c3df9efa59c1341.png",
+                    "thumb": "items/images/en/thumbs/molt_vigor.51b7ce183f508eb27c3df9efa59c1341.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "626a1979f40db600660a1d81",
+            "slug": "emergence_renewed",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/OperatorOnEnergyDepletedRegenEnergy",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Emergence Renewed",
+                    "icon": "items/images/en/emergence_renewed.a5f55caadd8f27ff5acbe25bbd9b00a7.png",
+                    "thumb": "items/images/en/thumbs/emergence_renewed.a5f55caadd8f27ff5acbe25bbd9b00a7.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "626a197af40db600660a1d83",
+            "slug": "eternal_eradicate",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/OperatorOnOperatorAbilityIncreaseDamage",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Eternal Eradicate",
+                    "icon": "items/images/en/eternal_eradicate.75f8c32b70d1fa1fc211942ce7c3119e.png",
+                    "thumb": "items/images/en/thumbs/eternal_eradicate.75f8c32b70d1fa1fc211942ce7c3119e.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "626a197af40db600660a1d87",
+            "slug": "molt_efficiency",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/WarframeOnShieldUptimePowerDuration",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Molt Efficiency",
+                    "icon": "items/images/en/molt_efficiency.c76d07229a6c7e12bff54ac2f56f47b5.png",
+                    "thumb": "items/images/en/thumbs/molt_efficiency.c76d07229a6c7e12bff54ac2f56f47b5.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "626a197bf40db600660a1d88",
+            "slug": "emergence_savior",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/OperatorOnDeathInvulnerability",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Emergence Savior",
+                    "icon": "items/images/en/emergence_savior.d3cab5acf5703d92987d92188478d65d.png",
+                    "thumb": "items/images/en/thumbs/emergence_savior.d3cab5acf5703d92987d92188478d65d.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "626a197bf40db600660a1d8b",
+            "slug": "cascadia_overcharge",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/SecondaryOnOvershieldCritChance",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Cascadia Overcharge",
+                    "icon": "items/images/en/cascadia_overcharge.d5f7bf0949071f325145d596e35b3087.png",
+                    "thumb": "items/images/en/thumbs/cascadia_overcharge.d5f7bf0949071f325145d596e35b3087.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "62a2b833a554aa00a86de35c",
+            "slug": "eternal_onslaught",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/AmpOnEnergyDepletedCritChance",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Eternal Onslaught",
+                    "icon": "items/images/en/eternal_onslaught.d9c808039b68dd997cc6dee543c8b0ab.png",
+                    "thumb": "items/images/en/thumbs/eternal_onslaught.d9c808039b68dd997cc6dee543c8b0ab.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "62a2baebfbd62c00450b71d8",
+            "slug": "molt_reconstruct",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/HealAlliesOnEnergySpent",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Molt Reconstruct",
+                    "icon": "items/images/en/molt_reconstruct.3c470837973134be1c9db91e0bdceeb0.png",
+                    "thumb": "items/images/en/thumbs/molt_reconstruct.3c470837973134be1c9db91e0bdceeb0.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "62a2baebfbd62c00450b71d9",
+            "slug": "molt_augmented",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PowerStrengthOnKill",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Molt Augmented",
+                    "icon": "items/images/en/molt_augmented.9def654a0d24b7f085940dfc8ef843b5.png",
+                    "thumb": "items/images/en/thumbs/molt_augmented.9def654a0d24b7f085940dfc8ef843b5.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "62a2baebfbd62c00450b71db",
+            "slug": "eternal_logistics",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/AmpOnVoidSlingAmpAmmoEfficiency",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Eternal Logistics",
+                    "icon": "items/images/en/eternal_logistics.f12227878bbb95901bd6aba5aa902acf.png",
+                    "thumb": "items/images/en/thumbs/eternal_logistics.f12227878bbb95901bd6aba5aa902acf.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "62af145c5d2dab0054229038",
+            "slug": "cascadia_empowered",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/SecondaryOnStatusProcBonusDamage",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Cascadia Empowered",
+                    "icon": "items/images/en/cascadia_empowered.677ddc0966a5d8662883735fb42d2ec3.png",
+                    "thumb": "items/images/en/thumbs/cascadia_empowered.677ddc0966a5d8662883735fb42d2ec3.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "62af145c5d2dab005422903a",
+            "slug": "fractalized_reset",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/PrimaryOnAbilityReloadSpeed",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Fractalized Reset",
+                    "icon": "items/images/en/fractalized_reset.234df692ab2ebf6bd1e73f1f115547fa.png",
+                    "thumb": "items/images/en/thumbs/fractalized_reset.234df692ab2ebf6bd1e73f1f115547fa.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "62af145d5d2dab005422903c",
+            "slug": "cascadia_flare",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnHeatProc",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Cascadia Flare",
+                    "icon": "items/images/en/cascadia_flare.256fbbf670c8acdcc8468ed035cc6efe.png",
+                    "thumb": "items/images/en/thumbs/cascadia_flare.256fbbf670c8acdcc8468ed035cc6efe.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "62af145e5d2dab0054229040",
+            "slug": "cascadia_accuracy",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/SecondaryOnRollCritChanceOnHeadshot",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Cascadia Accuracy",
+                    "icon": "items/images/en/cascadia_accuracy.51f25b4bd629c3c34226da11b9831d57.png",
+                    "thumb": "items/images/en/thumbs/cascadia_accuracy.51f25b4bd629c3c34226da11b9831d57.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "63886516e7c988007b5bd509",
+            "slug": "conjunction_voltage",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryReloadSpeedAndMultishotOnElectricProc",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Conjunction Voltage",
+                    "icon": "items/images/en/conjunction_voltage.d7ac26c466e1d189eaa0f1eab81b6b4b.png",
+                    "thumb": "items/images/en/thumbs/conjunction_voltage.d7ac26c466e1d189eaa0f1eab81b6b4b.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "63886516e7c988007b5bd50a",
+            "slug": "primary_frostbite",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryCritDmgAndMultishotOnColdProc",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Frostbite",
+                    "icon": "items/images/en/primary_frostbite.3aba98f1779bfc69c3139e83dbda1463.png",
+                    "thumb": "items/images/en/thumbs/primary_frostbite.3aba98f1779bfc69c3139e83dbda1463.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "63886516e7c988007b5bd50b",
+            "slug": "arcane_rise",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LongGunDamageOnReload",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Rise",
+                    "icon": "items/images/en/arcane_rise.dd639f42f0235bd00abea150d1666f89.png",
+                    "thumb": "items/images/en/thumbs/arcane_rise.dd639f42f0235bd00abea150d1666f89.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "63886517e7c988007b5bd512",
+            "slug": "arcane_blessing",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/IncreaseMaxHealthOnHealthPickup",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Blessing",
+                    "icon": "items/images/en/arcane_blessing.aec88d7b4b3482f59c6c1a3b87185042.png",
+                    "thumb": "items/images/en/thumbs/arcane_blessing.aec88d7b4b3482f59c6c1a3b87185042.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "63ee00fc10125411da49e6e7",
+            "slug": "primary_plated_round",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamagePerAmmoOnReload",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Plated Round",
+                    "icon": "items/images/en/primary_plated_round.db83727f4a2cc66deac96ae09ab0299f.png",
+                    "thumb": "items/images/en/thumbs/primary_plated_round.db83727f4a2cc66deac96ae09ab0299f.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "63ee00fd10125411da49e6ea",
+            "slug": "arcane_steadfast",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceOnCast",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Steadfast",
+                    "icon": "items/images/en/arcane_steadfast.ccf77e85d0ff32f127e1a71d38ea8c0e.png",
+                    "thumb": "items/images/en/thumbs/arcane_steadfast.ccf77e85d0ff32f127e1a71d38ea8c0e.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "63ee00fe10125411da49e6f4",
+            "slug": "arcane_double_back",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/DamageResistanceStacksOverTime",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Double Back",
+                    "icon": "items/images/en/arcane_double_back.1ed9a591a41ea6c610f532f30b31ae22.png",
+                    "thumb": "items/images/en/thumbs/arcane_double_back.1ed9a591a41ea6c610f532f30b31ae22.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "63ee00fe10125411da49e6f5",
+            "slug": "secondary_kinship",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritChancePerBuff",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Kinship",
+                    "icon": "items/images/en/secondary_kinship.43ae6eafe467db9484220ac71028362d.png",
+                    "thumb": "items/images/en/thumbs/secondary_kinship.43ae6eafe467db9484220ac71028362d.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "63ee00ff10125411da49e6fa",
+            "slug": "secondary_encumber",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ExtraProcOnProc",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Encumber",
+                    "icon": "items/images/en/secondary_encumber.0e6c3bb15956e965b63a16c90ea70a9d.png",
+                    "thumb": "items/images/en/thumbs/secondary_encumber.0e6c3bb15956e965b63a16c90ea70a9d.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "644b00217ec1900044b97722",
+            "slug": "primary_obstruct",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryJamEnemyWeaponsOnMagneticProc",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Obstruct",
+                    "icon": "items/images/en/primary_obstruct.fdedb1774329c76fa8083cf43fa76a06.png",
+                    "thumb": "items/images/en/thumbs/primary_obstruct.fdedb1774329c76fa8083cf43fa76a06.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "644b00227ec1900044b97723",
+            "slug": "arcane_intention",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/HealthWhileUsingChanneledAbilities",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Intention",
+                    "icon": "items/images/en/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.png",
+                    "thumb": "items/images/en/thumbs/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "644b00227ec1900044b97724",
+            "slug": "secondary_shiver",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryExtraDamagePerFreezeStack",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Shiver",
+                    "icon": "items/images/en/secondary_shiver.e169db6259133538ca86090ac481840a.png",
+                    "thumb": "items/images/en/thumbs/secondary_shiver.e169db6259133538ca86090ac481840a.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "644b00227ec1900044b97727",
+            "slug": "longbow_sharpshot",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongbowDamageOnHeadshot",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Longbow Sharpshot",
+                    "icon": "items/images/en/longbow_sharpshot.1edd43d82c3b61da2555a2ccb9ba9332.png",
+                    "thumb": "items/images/en/thumbs/longbow_sharpshot.1edd43d82c3b61da2555a2ccb9ba9332.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "644b00227ec1900044b97729",
+            "slug": "shotgun_vendetta",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ShotgunMultishotAndReloadSpeedOnCloseKill",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Shotgun Vendetta",
+                    "icon": "items/images/en/shotgun_vendetta.219b0d47d26345b989decc3a56326c54.png",
+                    "thumb": "items/images/en/thumbs/shotgun_vendetta.219b0d47d26345b989decc3a56326c54.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "644b00237ec1900044b9772e",
+            "slug": "magus_aggress",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OperatorHeavyMeleeDamageOnTransference",
+            "tags": [
+                "uncommon",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Magus Aggress",
+                    "icon": "items/images/en/magus_aggress.03f6a273fe2e6e2b3720957cf32c2adf.png",
+                    "thumb": "items/images/en/thumbs/magus_aggress.03f6a273fe2e6e2b3720957cf32c2adf.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "644b00247ec1900044b97733",
+            "slug": "arcane_reaper",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthRegenAndArmorOnMeleeKill",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Reaper",
+                    "icon": "items/images/en/arcane_reaper.5eaac187d816d010ec44ee1a05979564.png",
+                    "thumb": "items/images/en/thumbs/arcane_reaper.5eaac187d816d010ec44ee1a05979564.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "644b00257ec1900044b97737",
+            "slug": "primary_exhilarate",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryEnergyRegenOnImpactProc",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Exhilarate",
+                    "icon": "items/images/en/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.png",
+                    "thumb": "items/images/en/thumbs/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "649322af7ec190215a693091",
+            "slug": "arcane_power_ramp",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnCast",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Power Ramp",
+                    "icon": "items/images/en/arcane_power_ramp.3acad1eaec440c1505c01661a7228664.png",
+                    "thumb": "items/images/en/thumbs/arcane_power_ramp.3acad1eaec440c1505c01661a7228664.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "649322af7ec190215a693092",
+            "slug": "primary_blight",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryHeadshotCritMultOnHeadshot",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Blight",
+                    "icon": "items/images/en/primary_blight.7dc9243c44441b2b46f7e1dc55eae1d0.png",
+                    "thumb": "items/images/en/thumbs/primary_blight.7dc9243c44441b2b46f7e1dc55eae1d0.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "649322b07ec190215a693093",
+            "slug": "secondary_outburst",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MultishotForCombo",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Outburst",
+                    "icon": "items/images/en/secondary_outburst.01c8242b80d987650c8e240454b93249.png",
+                    "thumb": "items/images/en/thumbs/secondary_outburst.01c8242b80d987650c8e240454b93249.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "649322b07ec190215a693094",
+            "slug": "akimbo_slip_shot",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnSliding",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Akimbo Slip Shot",
+                    "icon": "items/images/en/akimbo_slip_shot.9cb48cdcc739b5306bb4e2a8b3868e72.png",
+                    "thumb": "items/images/en/thumbs/akimbo_slip_shot.9cb48cdcc739b5306bb4e2a8b3868e72.128x128.png"
+                }
+            }
+        },
+        {
+            "id": "657f2efd8820fb8f3c5f465d",
+            "slug": "melee_influence",
+            "gameRef": "",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Influence",
+                    "icon": "items/images/en/melee_influence.b22232a58406e5feeb8bbe94c07c18d2.webp",
+                    "thumb": "items/images/en/thumbs/melee_influence.b22232a58406e5feeb8bbe94c07c18d2.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "657f2efd8820fb8f3c5f465e",
+            "slug": "melee_retaliation",
+            "gameRef": "",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Retaliation",
+                    "icon": "items/images/en/melee_retaliation.bb1d89feb4393d3681c495372d8c3531.webp",
+                    "thumb": "items/images/en/thumbs/melee_retaliation.bb1d89feb4393d3681c495372d8c3531.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "657f2efd8820fb8f3c5f465f",
+            "slug": "melee_crescendo",
+            "gameRef": "",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Crescendo",
+                    "icon": "items/images/en/melee_crescendo.fec1a875c68b84f3282a21a82aabdb20.webp",
+                    "thumb": "items/images/en/thumbs/melee_crescendo.fec1a875c68b84f3282a21a82aabdb20.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "657f2efd8820fb8f3c5f4660",
+            "slug": "melee_vortex",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PullEnemiesOnMeleeKill",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Vortex",
+                    "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+                    "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "657f2efd8820fb8f3c5f4661",
+            "slug": "melee_animosity",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HeavyCritOnRegularMelee",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Animosity",
+                    "icon": "items/images/en/melee_animosity.f6ee3ff6153769c4686cf53940546609.webp",
+                    "thumb": "items/images/en/thumbs/melee_animosity.f6ee3ff6153769c4686cf53940546609.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "657f2efd8820fb8f3c5f4662",
+            "slug": "melee_exposure",
+            "gameRef": "",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Exposure",
+                    "icon": "items/images/en/melee_exposure.8f640378cd4d4ca4758da310524b90c6.webp",
+                    "thumb": "items/images/en/thumbs/melee_exposure.8f640378cd4d4ca4758da310524b90c6.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "657f2efd8820fb8f3c5f4663",
+            "slug": "melee_duplicate",
+            "gameRef": "",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Duplicate",
+                    "icon": "items/images/en/melee_duplicate.0ac0137e555cde39902706e96853dff9.webp",
+                    "thumb": "items/images/en/thumbs/melee_duplicate.0ac0137e555cde39902706e96853dff9.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "657f2efd8820fb8f3c5f4664",
+            "slug": "melee_fortification",
+            "gameRef": "",
+            "tags": [
+                "common",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Fortification",
+                    "icon": "items/images/en/melee_fortification.546e560aff6676bf550b0de38f14f280.webp",
+                    "thumb": "items/images/en/thumbs/melee_fortification.546e560aff6676bf550b0de38f14f280.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "667236b88ba7c81b70d02c90",
+            "slug": "arcane_ice_storm",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityPowerOnFreeze",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Ice Storm",
+                    "icon": "items/images/en/arcane_ice_storm.1d3a88fec2c4d415bf8156e2ec9caeeb.webp",
+                    "thumb": "items/images/en/thumbs/arcane_ice_storm.1d3a88fec2c4d415bf8156e2ec9caeeb.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "667236dd8ba7c81b70d02c92",
+            "slug": "secondary_surge",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/BonusDamageNextShotForCurEnergy",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Surge",
+                    "icon": "items/images/en/secondary_surge.911b99fe452eaf250ae01c041639a2be.webp",
+                    "thumb": "items/images/en/thumbs/secondary_surge.911b99fe452eaf250ae01c041639a2be.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6672373e8ba7c81b70d02c94",
+            "slug": "arcane_battery",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MaxEnergyForArmor",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Battery",
+                    "icon": "items/images/en/arcane_battery.2a7148e4cd7466c1e52d821a479d3e4e.webp",
+                    "thumb": "items/images/en/thumbs/arcane_battery.2a7148e4cd7466c1e52d821a479d3e4e.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "667237598ba7c81b70d02c96",
+            "slug": "secondary_fortifier",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OverguardSteal",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Fortifier",
+                    "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+                    "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "667c25a207a5007fadf3ecaa",
+            "slug": "melee_afflictions",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/DuplicateStatusOnKnock",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "bulkTradable": true,
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Afflictions",
+                    "icon": "items/images/en/melee_afflictions.36f6811228a70719f5ce96ebce22a926.webp",
+                    "thumb": "items/images/en/thumbs/melee_afflictions.36f6811228a70719f5ce96ebce22a926.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "675c59247b18977f6e6453e8",
+            "slug": "arcane_crepuscular",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Crepuscular",
+                    "icon": "items/images/en/arcane_crepuscular.8e34ad3ac57362158d9ec6d642364427.webp",
+                    "thumb": "items/images/en/thumbs/arcane_crepuscular.8e34ad3ac57362158d9ec6d642364427.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "675c59297b18977f6e6453ea",
+            "slug": "arcane_impetus",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Impetus",
+                    "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+                    "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "675c59347b18977f6e6453ec",
+            "slug": "primary_crux",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Crux",
+                    "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+                    "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "675c5cd07b18977f6e6453ee",
+            "slug": "secondary_enervate",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritOnHit",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Enervate",
+                    "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+                    "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "675c5cd97b18977f6e6453f0",
+            "slug": "melee_doughty",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritDamageForPunctureStatus",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Doughty",
+                    "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+                    "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "675c5ed17b18977f6e6453f2",
+            "slug": "arcane_camisado",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Camisado",
+                    "icon": "items/images/en/arcane_camisado.49bb15acacdfe7a2782b56151d0a8a3f.webp",
+                    "thumb": "items/images/en/thumbs/arcane_camisado.49bb15acacdfe7a2782b56151d0a8a3f.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "675c5edc7b18977f6e6453f4",
+            "slug": "arcane_bellicose",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Bellicose",
+                    "icon": "items/images/en/arcane_bellicose.cba86d2bfb1b20b4a512b6913e79ba0c.webp",
+                    "thumb": "items/images/en/thumbs/arcane_bellicose.cba86d2bfb1b20b4a512b6913e79ba0c.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "675c5ee47b18977f6e6453f6",
+            "slug": "arcane_truculence",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Truculence",
+                    "icon": "items/images/en/arcane_truculence.1a7e80d9006d376a28883af0ca96cbdf.webp",
+                    "thumb": "items/images/en/thumbs/arcane_truculence.1a7e80d9006d376a28883af0ca96cbdf.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "67db60869cec3e52e62523f4",
+            "slug": "arcane_escapist",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InvulnerabilityOnDeathOnMercyKill",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Escapist",
+                    "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+                    "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "67db60889cec3e52e62523f5",
+            "slug": "arcane_hot_shot",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityHeatProcsGiveCritChance",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Hot Shot",
+                    "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+                    "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "67db60899cec3e52e62523f6",
+            "slug": "arcane_universal_fallout",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityRadiationProcsCreateUniversalOrbsOnKill",
+            "tags": [
+                "legendary",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Universal Fallout",
+                    "icon": "items/images/en/arcane_universal_fallout.a2684caa30e88e5ef81c183acefe3354.webp",
+                    "thumb": "items/images/en/thumbs/arcane_universal_fallout.a2684caa30e88e5ef81c183acefe3354.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6939d5d8d6a357b81964f85f",
+            "slug": "arcane_persistence",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MaxDPSTakenForArmour",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Persistence",
+                    "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+                    "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6939d5d9d6a357b81964f860",
+            "slug": "arcane_expertise",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ShieldMaxForAbilityStrength",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Expertise",
+                    "icon": "items/images/en/arcane_expertise.2af40ec68fa1c088e680d32727c186fc.webp",
+                    "thumb": "items/images/en/thumbs/arcane_expertise.2af40ec68fa1c088e680d32727c186fc.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6939d5dad6a357b81964f861",
+            "slug": "arcane_circumvent",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/StealDefensiveStatsOnRoll",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Circumvent",
+                    "icon": "items/images/en/arcane_circumvent.961100ef755581993133c15d34f04f53.webp",
+                    "thumb": "items/images/en/thumbs/arcane_circumvent.961100ef755581993133c15d34f04f53.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6939d5dcd6a357b81964f862",
+            "slug": "primary_bulwark",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/DamageForBonusArmour",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Bulwark",
+                    "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+                    "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6939d5ddd6a357b81964f863",
+            "slug": "primary_overcharge",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MultishotForMaxEnergy",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Overcharge",
+                    "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+                    "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6939d5ded6a357b81964f864",
+            "slug": "secondary_irradiate",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/RadialDamageOnMaxRadiationStackHit",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Secondary Irradiate",
+                    "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+                    "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6939d5e0d6a357b81964f865",
+            "slug": "primary_debilitate",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SplitStatusProcsOnStackedStatusHit",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Primary Debilitate",
+                    "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+                    "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6939d5e1d6a357b81964f866",
+            "slug": "arcane_concentration",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityDurationOnCast",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Arcane Concentration",
+                    "icon": "items/images/en/arcane_concentration.8241161cbae0706e313693aef592b971.webp",
+                    "thumb": "items/images/en/thumbs/arcane_concentration.8241161cbae0706e313693aef592b971.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "6939d5e3d6a357b81964f867",
+            "slug": "melee_careen",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/FreezeEnemiesOnRoll",
+            "tags": [
+                "rare",
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Melee Careen",
+                    "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+                    "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "69765a057b65a4e83d4ab4ae",
+            "slug": "zid-an-sek-eel",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/UltimateInvisibilty",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Zid-an Sek-eel",
+                    "icon": "items/images/en/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.webp",
+                    "thumb": "items/images/en/thumbs/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "69765a057b65a4e83d4ab4af",
+            "slug": "zid-an-asheir",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/StatusChanceOnUltimateHit",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Zid-an Asheir",
+                    "icon": "items/images/en/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.webp",
+                    "thumb": "items/images/en/thumbs/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "69765a057b65a4e83d4ab4b0",
+            "slug": "zid-an-uskos",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/HeatStatusProcOnUltimateKill",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Zid-an Uskos",
+                    "icon": "items/images/en/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.webp",
+                    "thumb": "items/images/en/thumbs/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "69765a067b65a4e83d4ab4b1",
+            "slug": "zid-an-haras",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/AmmoEfficencyDuringUltimate",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Zid-an Haras",
+                    "icon": "items/images/en/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.webp",
+                    "thumb": "items/images/en/thumbs/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.128x128.webp"
+                }
+            }
+        },
+        {
+            "id": "69765a067b65a4e83d4ab4b2",
+            "slug": "zid-an-osbok",
+            "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/VoidSlingsOverguardStrip",
+            "tags": [
+                "arcane_enhancement"
+            ],
+            "maxRank": 5,
+            "i18n": {
+                "en": {
+                    "name": "Zid-an Osbok",
+                    "icon": "items/images/en/zid-an-osbok.bea2033c8ac9089bcff1ea005cdff694.webp",
+                    "thumb": "items/images/en/thumbs/zid-an-osbok.bea2033c8ac9089bcff1ea005cdff694.128x128.webp"
+                }
+            }
+        }
     ],
     "mods": [
         "creeping_bullseye",

@@ -9,7 +9,7 @@ def get_items(): # get all items
         res.raise_for_status() # raise error
         data = res.json()
 
-        with open("raw_all_items.json", "w", encoding="utf-8") as file:
+        with open("1getData/raw_all_items.json", "w", encoding="utf-8") as file:
             json.dump(data, file, indent=4)
             print("all items saved")
 

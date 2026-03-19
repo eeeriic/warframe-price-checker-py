@@ -1,6 +1,7 @@
 {
     "warframe": {
         "frost": {
+            "set_img": "items/images/en/thumbs/frost_prime_set.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
             "set": "frost_prime_set",
             "parts": [
                 "frost_prime_blueprint",
@@ -10,6 +11,7 @@
             ]
         },
         "hydroid": {
+            "set_img": "items/images/en/thumbs/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
             "set": "hydroid_prime_set",
             "parts": [
                 "hydroid_prime_neuroptics_blueprint",
@@ -19,6 +21,7 @@
             ]
         },
         "saryn": {
+            "set_img": "items/images/en/thumbs/saryn_prime_set.394094bef0383f954bd38d622bb075e5.128x128.png",
             "set": "saryn_prime_set",
             "parts": [
                 "saryn_prime_blueprint",
@@ -28,6 +31,7 @@
             ]
         },
         "rhino": {
+            "set_img": "items/images/en/thumbs/rhino_prime_set.22301207f9463fe9ab215e40eb23a326.128x128.png",
             "set": "rhino_prime_set",
             "parts": [
                 "rhino_prime_neuroptics_blueprint",
@@ -37,6 +41,7 @@
             ]
         },
         "wukong": {
+            "set_img": "items/images/en/thumbs/wukong_prime_set.6fa7196ae48a7a3901c35834476f3891.128x128.png",
             "set": "wukong_prime_set",
             "parts": [
                 "wukong_prime_neuroptics_blueprint",
@@ -46,6 +51,7 @@
             ]
         },
         "ember": {
+            "set_img": "items/images/en/thumbs/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.128x128.png",
             "set": "ember_prime_set",
             "parts": [
                 "ember_prime_neuroptics_blueprint",
@@ -55,6 +61,7 @@
             ]
         },
         "mag": {
+            "set_img": "items/images/en/thumbs/mag_prime_set.2afb45373319b966737bd91cf05a813c.128x128.png",
             "set": "mag_prime_set",
             "parts": [
                 "mag_prime_chassis_blueprint",
@@ -64,6 +71,7 @@
             ]
         },
         "oberon": {
+            "set_img": "items/images/en/thumbs/oberon_prime_set.d7f1623552bce11f166b715679e27022.128x128.png",
             "set": "oberon_prime_set",
             "parts": [
                 "oberon_prime_neuroptics_blueprint",
@@ -73,6 +81,7 @@
             ]
         },
         "trinity": {
+            "set_img": "items/images/en/thumbs/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
             "set": "trinity_prime_set",
             "parts": [
                 "trinity_prime_neuroptics_blueprint",
@@ -82,6 +91,7 @@
             ]
         },
         "volt": {
+            "set_img": "items/images/en/thumbs/volt_prime_set.9481daa3eb02aaec1108cdbeeaeea159.128x128.png",
             "set": "volt_prime_set",
             "parts": [
                 "volt_prime_neuroptics_blueprint",
@@ -91,6 +101,7 @@
             ]
         },
         "titania": {
+            "set_img": "items/images/en/thumbs/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.128x128.png",
             "set": "titania_prime_set",
             "parts": [
                 "titania_prime_neuroptics_blueprint",
@@ -100,6 +111,7 @@
             ]
         },
         "inaros": {
+            "set_img": "items/images/en/thumbs/inaros_prime_set.58fc170fbf04332e7d541a615c198b41.128x128.png",
             "set": "inaros_prime_set",
             "parts": [
                 "inaros_prime_chassis_blueprint",
@@ -109,6 +121,7 @@
             ]
         },
         "valkyr": {
+            "set_img": "items/images/en/thumbs/valkyr_prime_set.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
             "set": "valkyr_prime_set",
             "parts": [
                 "valkyr_prime_neuroptics_blueprint",
@@ -118,6 +131,7 @@
             ]
         },
         "limbo": {
+            "set_img": "items/images/en/thumbs/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.128x128.png",
             "set": "limbo_prime_set",
             "parts": [
                 "limbo_prime_systems_blueprint",
@@ -127,6 +141,7 @@
             ]
         },
         "atlas": {
+            "set_img": "items/images/en/thumbs/atlas_prime_set.91fb26397de19c27bfece550a8315a14.128x128.png",
             "set": "atlas_prime_set",
             "parts": [
                 "atlas_prime_chassis_blueprint",
@@ -136,6 +151,7 @@
             ]
         },
         "chroma": {
+            "set_img": "items/images/en/thumbs/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.128x128.png",
             "set": "chroma_prime_set",
             "parts": [
                 "chroma_prime_blueprint",
@@ -145,6 +161,7 @@
             ]
         },
         "banshee": {
+            "set_img": "items/images/en/thumbs/banshee_prime_set.a0956816beb733841bce57e69a568cd6.128x128.png",
             "set": "banshee_prime_set",
             "parts": [
                 "banshee_prime_chassis_blueprint",
@@ -154,6 +171,7 @@
             ]
         },
         "vauban": {
+            "set_img": "items/images/en/thumbs/vauban_prime_set.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
             "set": "vauban_prime_set",
             "parts": [
                 "vauban_prime_neuroptics_blueprint",
@@ -163,6 +181,7 @@
             ]
         },
         "loki": {
+            "set_img": "items/images/en/thumbs/loki_prime_set.abc05c280f92196bcb688643873fbf95.128x128.png",
             "set": "loki_prime_set",
             "parts": [
                 "loki_prime_systems_blueprint",
@@ -172,6 +191,7 @@
             ]
         },
         "nova": {
+            "set_img": "items/images/en/thumbs/nova_prime_set.639a9222e1cb351cd6dd09ef28155ef0.128x128.png",
             "set": "nova_prime_set",
             "parts": [
                 "nova_prime_systems_blueprint",
@@ -181,6 +201,7 @@
             ]
         },
         "nyx": {
+            "set_img": "items/images/en/thumbs/nyx_prime_set.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
             "set": "nyx_prime_set",
             "parts": [
                 "nyx_prime_blueprint",
@@ -190,6 +211,7 @@
             ]
         },
         "zephyr": {
+            "set_img": "items/images/en/thumbs/zephyr_prime_set.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png",
             "set": "zephyr_prime_set",
             "parts": [
                 "zephyr_prime_chassis_blueprint",
@@ -199,6 +221,7 @@
             ]
         },
         "ivara": {
+            "set_img": "items/images/en/thumbs/ivara_prime_set.5c4fbd8ffa071c741cf93e260e43b6db.128x128.png",
             "set": "ivara_prime_set",
             "parts": [
                 "ivara_prime_neuroptics_blueprint",
@@ -208,6 +231,7 @@
             ]
         },
         "mirage": {
+            "set_img": "items/images/en/thumbs/mirage_prime_set.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
             "set": "mirage_prime_set",
             "parts": [
                 "mirage_prime_systems_blueprint",
@@ -217,6 +241,7 @@
             ]
         },
         "equinox": {
+            "set_img": "items/images/en/thumbs/equinox_prime_set.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
             "set": "equinox_prime_set",
             "parts": [
                 "equinox_prime_blueprint",
@@ -226,6 +251,7 @@
             ]
         },
         "ash": {
+            "set_img": "items/images/en/thumbs/ash_prime_set.9f3f82bee82a9741531857cf76eb6594.128x128.png",
             "set": "ash_prime_set",
             "parts": [
                 "ash_prime_neuroptics_blueprint",
@@ -235,6 +261,7 @@
             ]
         },
         "mesa": {
+            "set_img": "items/images/en/thumbs/mesa_prime_set.34d67af54de052f6de1d5ae64ed40197.128x128.png",
             "set": "mesa_prime_set",
             "parts": [
                 "mesa_prime_blueprint",
@@ -244,6 +271,7 @@
             ]
         },
         "nekros": {
+            "set_img": "items/images/en/thumbs/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.128x128.png",
             "set": "nekros_prime_set",
             "parts": [
                 "nekros_prime_neuroptics_blueprint",
@@ -253,6 +281,7 @@
             ]
         },
         "nezha": {
+            "set_img": "items/images/en/thumbs/nezha_prime_set.462f17d4752cca5cea3988ecb9786467.128x128.png",
             "set": "nezha_prime_set",
             "parts": [
                 "nezha_prime_blueprint",
@@ -262,6 +291,7 @@
             ]
         },
         "octavia": {
+            "set_img": "items/images/en/thumbs/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.128x128.png",
             "set": "octavia_prime_set",
             "parts": [
                 "octavia_prime_blueprint",
@@ -271,6 +301,7 @@
             ]
         },
         "gara": {
+            "set_img": "items/images/en/thumbs/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.128x128.png",
             "set": "gara_prime_set",
             "parts": [
                 "gara_prime_blueprint",
@@ -280,6 +311,7 @@
             ]
         },
         "nidus": {
+            "set_img": "items/images/en/thumbs/nidus_prime_set.1cf479b37c98ce42340156c9c005e91e.128x128.png",
             "set": "nidus_prime_set",
             "parts": [
                 "nidus_prime_blueprint",
@@ -289,6 +321,7 @@
             ]
         },
         "harrow": {
+            "set_img": "items/images/en/thumbs/harrow_prime_set.532d5a9a035beaca81c15bbaa4001a1d.128x128.png",
             "set": "harrow_prime_set",
             "parts": [
                 "harrow_prime_blueprint",
@@ -298,6 +331,7 @@
             ]
         },
         "garuda": {
+            "set_img": "items/images/en/thumbs/garuda_prime_set.283072e865cfc5da28d322b15a2065fa.128x128.png",
             "set": "garuda_prime_set",
             "parts": [
                 "garuda_prime_chassis_blueprint",
@@ -307,6 +341,7 @@
             ]
         },
         "khora": {
+            "set_img": "items/images/en/thumbs/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.128x128.png",
             "set": "khora_prime_set",
             "parts": [
                 "khora_prime_chassis_blueprint",
@@ -316,6 +351,7 @@
             ]
         },
         "revenant": {
+            "set_img": "items/images/en/thumbs/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.128x128.png",
             "set": "revenant_prime_set",
             "parts": [
                 "revenant_prime_chassis_blueprint",
@@ -325,6 +361,7 @@
             ]
         },
         "baruuk": {
+            "set_img": "items/images/en/thumbs/baruuk_prime_set.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
             "set": "baruuk_prime_set",
             "parts": [
                 "baruuk_prime_chassis_blueprint",
@@ -334,6 +371,7 @@
             ]
         },
         "hildryn": {
+            "set_img": "items/images/en/thumbs/hildryn_prime_set.7e3f1cd4b94baa590dde37cd0ad0ba9e.128x128.png",
             "set": "hildryn_prime_set",
             "parts": [
                 "hildryn_prime_blueprint",
@@ -343,6 +381,7 @@
             ]
         },
         "wisp": {
+            "set_img": "items/images/en/thumbs/wisp_prime_set.609bc4e8676a77247cc126ca150cb132.128x128.png",
             "set": "wisp_prime_set",
             "parts": [
                 "wisp_prime_chassis_blueprint",
@@ -352,6 +391,7 @@
             ]
         },
         "grendel": {
+            "set_img": "items/images/en/thumbs/grendel_prime_set.c684407cdaea9bef16f0c7aa97c74369.128x128.png",
             "set": "grendel_prime_set",
             "parts": [
                 "grendel_prime_blueprint",
@@ -361,6 +401,7 @@
             ]
         },
         "gauss": {
+            "set_img": "items/images/en/thumbs/gauss_prime_set.df5aa569d863730a4de767fd449c107e.128x128.png",
             "set": "gauss_prime_set",
             "parts": [
                 "gauss_prime_blueprint",
@@ -370,6 +411,7 @@
             ]
         },
         "protea": {
+            "set_img": "items/images/en/thumbs/protea_prime_set.c4d0269d10f68228b05510982f06e58b.128x128.png",
             "set": "protea_prime_set",
             "parts": [
                 "protea_prime_blueprint",
@@ -379,6 +421,7 @@
             ]
         },
         "sevagoth": {
+            "set_img": "items/images/en/thumbs/sevagoth_prime.56633fb39859f758c11e42519c3521fb.128x128.webp",
             "set": "sevagoth_prime_set",
             "parts": [
                 "sevagoth_prime_blueprint",
@@ -388,6 +431,7 @@
             ]
         },
         "xaku": {
+            "set_img": "items/images/en/thumbs/xaku_prime.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp",
             "set": "xaku_prime_set",
             "parts": [
                 "xaku_prime_blueprint",
@@ -397,6 +441,7 @@
             ]
         },
         "lavos": {
+            "set_img": "items/images/en/thumbs/lavos_prime_set.b50879ee28eb0c9effda56dadca76c86.128x128.webp",
             "set": "lavos_prime_set",
             "parts": [
                 "lavos_prime_blueprint",
@@ -406,6 +451,7 @@
             ]
         },
         "yareli": {
+            "set_img": "items/images/en/thumbs/yareli_prime_set.80badf98bdde8e0c47cac61aa6149ea0.128x128.webp",
             "set": "yareli_prime_set",
             "parts": [
                 "yareli_prime_blueprint",
@@ -415,6 +461,7 @@
             ]
         },
         "caliban": {
+            "set_img": "items/images/en/thumbs/caliban_prime_set.cae2f667bfae7c3ae9f5089760f9f090.128x128.webp",
             "set": "caliban_prime_set",
             "parts": [
                 "caliban_prime_blueprint",
@@ -424,6 +471,7 @@
             ]
         },
         "gyre": {
+            "set_img": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp",
             "set": "gyre_prime_set",
             "parts": [
                 "gyre_prime_blueprint",
@@ -435,6 +483,7 @@
     },
     "weapons": {
         "vasto": {
+            "set_img": "items/images/en/thumbs/vasto_prime_set.213e4b3b9b3be0f4facb77fd5242b6a4.128x128.png",
             "set": "vasto_prime_set",
             "parts": [
                 "vasto_prime_barrel",
@@ -443,6 +492,7 @@
             ]
         },
         "zhuge": {
+            "set_img": "items/images/en/thumbs/zhuge_prime_set.38e0e6189f1a333b382507a117b194a9.128x128.png",
             "set": "zhuge_prime_set",
             "parts": [
                 "zhuge_prime_grip",
@@ -453,6 +503,7 @@
             ]
         },
         "dual_kamas": {
+            "set_img": "items/images/en/thumbs/dual_kamas_prime_set.7d95cad6d71a59fa98902cc8bfe87da2.128x128.png",
             "set": "dual_kamas_prime_set",
             "parts": [
                 "dual_kamas_prime_blueprint",
@@ -461,6 +512,7 @@
             ]
         },
         "destreza": {
+            "set_img": "items/images/en/thumbs/destreza_prime_set.b1a1cc461a2cfcf9998f0588c8e932a4.128x128.png",
             "set": "destreza_prime_set",
             "parts": [
                 "destreza_prime_handle",
@@ -469,6 +521,7 @@
             ]
         },
         "stradavar": {
+            "set_img": "items/images/en/thumbs/stradavar_prime_set.57c042a30996514288dfd70f2ce267ca.128x128.png",
             "set": "stradavar_prime_set",
             "parts": [
                 "stradavar_prime_receiver",
@@ -478,6 +531,7 @@
             ]
         },
         "silva_and_aegis": {
+            "set_img": "items/images/en/thumbs/silva_and_aegis_prime_set.d226bbe86d3eccd8c751958dba46a4f6.128x128.png",
             "set": "silva_and_aegis_prime_set",
             "parts": [
                 "silva_and_aegis_prime_guard",
@@ -487,6 +541,7 @@
             ]
         },
         "latron": {
+            "set_img": "items/images/en/thumbs/latron_prime_set.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png",
             "set": "latron_prime_set",
             "parts": [
                 "latron_prime_barrel",
@@ -496,6 +551,7 @@
             ]
         },
         "lex": {
+            "set_img": "items/images/en/thumbs/lex_prime_set.13776cf63dfd68968067b517184a6ac0.128x128.png",
             "set": "lex_prime_set",
             "parts": [
                 "lex_prime_blueprint",
@@ -504,6 +560,7 @@
             ]
         },
         "vectis": {
+            "set_img": "items/images/en/thumbs/vectis_prime_set.028e001af4469482df80bff29542e043.128x128.png",
             "set": "vectis_prime_set",
             "parts": [
                 "vectis_prime_stock",
@@ -513,6 +570,7 @@
             ]
         },
         "sicarus": {
+            "set_img": "items/images/en/thumbs/sicarus_prime_set.e7c07172e6d63d49ae349d508c56fc85.128x128.png",
             "set": "sicarus_prime_set",
             "parts": [
                 "sicarus_prime_barrel",
@@ -521,6 +579,7 @@
             ]
         },
         "braton": {
+            "set_img": "items/images/en/thumbs/braton_prime_set.ae229642d6179ebfb1547ed7d976e749.128x128.png",
             "set": "braton_prime_set",
             "parts": [
                 "braton_prime_barrel",
@@ -530,6 +589,7 @@
             ]
         },
         "aklex": {
+            "set_img": "items/images/en/thumbs/aklex_prime_set.d4be2f3e545d5e1101d5b83a027e68fe.128x128.png",
             "set": "aklex_prime_set",
             "parts": [
                 "aklex_prime_blueprint",
@@ -537,6 +597,7 @@
             ]
         },
         "ninkondi": {
+            "set_img": "items/images/en/thumbs/ninkondi_prime_set.d8516fa5fc9fe9518b6b9ec8fa59cb28.128x128.png",
             "set": "ninkondi_prime_set",
             "parts": [
                 "ninkondi_prime_chain",
@@ -545,6 +606,7 @@
             ]
         },
         "fang": {
+            "set_img": "items/images/en/thumbs/fang_prime_set.13b0c690a76382d0fbdebe84e4c509db.128x128.png",
             "set": "fang_prime_set",
             "parts": [
                 "fang_prime_handle",
@@ -553,6 +615,7 @@
             ]
         },
         "euphona": {
+            "set_img": "items/images/en/thumbs/euphona_prime_set.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
             "set": "euphona_prime_set",
             "parts": [
                 "euphona_prime_blueprint",
@@ -561,6 +624,7 @@
             ]
         },
         "bo": {
+            "set_img": "items/images/en/thumbs/bo_prime_set.fad65cfb95d62a4275be60be30375846.128x128.png",
             "set": "bo_prime_set",
             "parts": [
                 "bo_prime_blueprint",
@@ -569,6 +633,7 @@
             ]
         },
         "boar": {
+            "set_img": "items/images/en/thumbs/boar_prime_set.5e8a5ba1520169c7a99c738624328d26.128x128.png",
             "set": "boar_prime_set",
             "parts": [
                 "boar_prime_blueprint",
@@ -578,6 +643,7 @@
             ]
         },
         "boltor": {
+            "set_img": "items/images/en/thumbs/boltor_prime_set.a26157003dea5b1e1fe6660f46f3ea11.128x128.png",
             "set": "boltor_prime_set",
             "parts": [
                 "boltor_prime_receiver",
@@ -587,6 +653,7 @@
             ]
         },
         "kogake": {
+            "set_img": "items/images/en/thumbs/kogake_prime_set.456b865463108d6f6ff51da978f839cd.128x128.png",
             "set": "kogake_prime_set",
             "parts": [
                 "kogake_prime_gauntlet",
@@ -595,6 +662,7 @@
             ]
         },
         "akvasto": {
+            "set_img": "items/images/en/thumbs/akvasto_prime_set.029887bbd387510ffec1debd81f65dab.128x128.png",
             "set": "akvasto_prime_set",
             "parts": [
                 "akvasto_prime_blueprint",
@@ -602,6 +670,7 @@
             ]
         },
         "ankyros": {
+            "set_img": "items/images/en/thumbs/ankyros_prime_set.81b3e5876c214047d10a0d90f92ebdfe.128x128.png",
             "set": "ankyros_prime_set",
             "parts": [
                 "ankyros_prime_blade",
@@ -610,6 +679,7 @@
             ]
         },
         "paris": {
+            "set_img": "items/images/en/thumbs/paris_prime_set.971f957f8304ce10617836343d47b238.128x128.png",
             "set": "paris_prime_set",
             "parts": [
                 "paris_prime_blueprint",
@@ -620,6 +690,7 @@
             ]
         },
         "ballistica": {
+            "set_img": "items/images/en/thumbs/ballistica_prime_set.4ed33348008ace40406d0383f692ecac.128x128.png",
             "set": "ballistica_prime_set",
             "parts": [
                 "ballistica_prime_string",
@@ -630,6 +701,7 @@
             ]
         },
         "venka": {
+            "set_img": "items/images/en/thumbs/venka_prime_set.123cb62ab1e8a4edd78997a256cf1e7f.128x128.png",
             "set": "venka_prime_set",
             "parts": [
                 "venka_prime_blueprint",
@@ -638,6 +710,7 @@
             ]
         },
         "akbronco": {
+            "set_img": "items/images/en/thumbs/akbronco_prime_set.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
             "set": "akbronco_prime_set",
             "parts": [
                 "akbronco_prime_link",
@@ -645,6 +718,7 @@
             ]
         },
         "dakra": {
+            "set_img": "items/images/en/thumbs/dakra_prime_set.785a613039ec892abc579c176f0b33da.128x128.png",
             "set": "dakra_prime_set",
             "parts": [
                 "dakra_prime_handle",
@@ -653,6 +727,7 @@
             ]
         },
         "baza": {
+            "set_img": "items/images/en/thumbs/baza_prime_set.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png",
             "set": "baza_prime_set",
             "parts": [
                 "baza_prime_blueprint",
@@ -662,6 +737,7 @@
             ]
         },
         "aksomati": {
+            "set_img": "items/images/en/thumbs/aksomati_prime_set.617fca3e38e6696ec87a6c28bd6bbebf.128x128.png",
             "set": "aksomati_prime_set",
             "parts": [
                 "aksomati_prime_link",
@@ -671,6 +747,7 @@
             ]
         },
         "hikou": {
+            "set_img": "items/images/en/thumbs/hikou_prime_set.cd5cefce60a4e85c15614139a8ee9400.128x128.png",
             "set": "hikou_prime_set",
             "parts": [
                 "hikou_prime_pouch",
@@ -679,6 +756,7 @@
             ]
         },
         "reaper": {
+            "set_img": "items/images/en/thumbs/reaper_prime_set.4e1d36812203a97fd0191930485b1095.128x128.png",
             "set": "reaper_prime_set",
             "parts": [
                 "reaper_prime_blueprint",
@@ -687,6 +765,7 @@
             ]
         },
         "sybaris": {
+            "set_img": "items/images/en/thumbs/sybaris_prime_set.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png",
             "set": "sybaris_prime_set",
             "parts": [
                 "sybaris_prime_barrel",
@@ -696,6 +775,7 @@
             ]
         },
         "redeemer": {
+            "set_img": "items/images/en/thumbs/redeemer_prime_set.92fcede37c1ab66d22a2287dc2334731.128x128.png",
             "set": "redeemer_prime_set",
             "parts": [
                 "redeemer_prime_blade",
@@ -704,6 +784,7 @@
             ]
         },
         "orthos": {
+            "set_img": "items/images/en/thumbs/orthos_prime_set.049c8584708b849d1eff500b182825f2.128x128.png",
             "set": "orthos_prime_set",
             "parts": [
                 "orthos_prime_blade",
@@ -712,6 +793,7 @@
             ]
         },
         "tigris": {
+            "set_img": "items/images/en/thumbs/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
             "set": "tigris_prime_set",
             "parts": [
                 "tigris_prime_receiver",
@@ -721,6 +803,7 @@
             ]
         },
         "fragor": {
+            "set_img": "items/images/en/thumbs/fragor_prime_set.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
             "set": "fragor_prime_set",
             "parts": [
                 "fragor_prime_head",
@@ -729,6 +812,7 @@
             ]
         },
         "pangolin": {
+            "set_img": "items/images/en/thumbs/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.128x128.png",
             "set": "pangolin_prime_set",
             "parts": [
                 "pangolin_prime_blade",
@@ -737,6 +821,7 @@
             ]
         },
         "glaive": {
+            "set_img": "items/images/en/thumbs/glaive_prime_set.17767ab370f143a315df90177995ef92.128x128.png",
             "set": "glaive_prime_set",
             "parts": [
                 "glaive_prime_blade",
@@ -745,6 +830,7 @@
             ]
         },
         "scindo": {
+            "set_img": "items/images/en/thumbs/scindo_prime_set.ae70ac90b811a44f64263394b6410c28.128x128.png",
             "set": "scindo_prime_set",
             "parts": [
                 "scindo_prime_handle",
@@ -753,6 +839,7 @@
             ]
         },
         "akstiletto": {
+            "set_img": "items/images/en/thumbs/akstiletto_prime_set.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
             "set": "akstiletto_prime_set",
             "parts": [
                 "akstiletto_prime_blueprint",
@@ -762,6 +849,7 @@
             ]
         },
         "karyst": {
+            "set_img": "items/images/en/thumbs/karyst_prime_set.4ac2616227b5e4e2e42e44473acf9a91.128x128.png",
             "set": "karyst_prime_set",
             "parts": [
                 "karyst_prime_handle",
@@ -770,6 +858,7 @@
             ]
         },
         "panthera": {
+            "set_img": "items/images/en/thumbs/panthera_prime_set.7a4ebdc3f85ef877a6ffce8790660e30.128x128.png",
             "set": "panthera_prime_set",
             "parts": [
                 "panthera_prime_stock",
@@ -779,6 +868,7 @@
             ]
         },
         "cernos": {
+            "set_img": "items/images/en/thumbs/cernos_prime_set.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png",
             "set": "cernos_prime_set",
             "parts": [
                 "cernos_prime_blueprint",
@@ -789,6 +879,7 @@
             ]
         },
         "akbolto": {
+            "set_img": "items/images/en/thumbs/akbolto_prime_set.fdb7b0be60ed776a1ba1d800d7cda22b.128x128.png",
             "set": "akbolto_prime_set",
             "parts": [
                 "akbolto_prime_receiver",
@@ -798,6 +889,7 @@
             ]
         },
         "nikana": {
+            "set_img": "items/images/en/thumbs/nikana_prime_set.2daac0807a52385bfcf62f71075f2221.128x128.png",
             "set": "nikana_prime_set",
             "parts": [
                 "nikana_prime_hilt",
@@ -806,6 +898,7 @@
             ]
         },
         "spira": {
+            "set_img": "items/images/en/thumbs/spira_prime_set.1a495b1cb31bba268dc7a50f2a4f7134.128x128.png",
             "set": "spira_prime_set",
             "parts": [
                 "spira_prime_blueprint",
@@ -814,6 +907,7 @@
             ]
         },
         "nami_skyla": {
+            "set_img": "items/images/en/thumbs/nami_skyla_prime_set.d83bcdd72463d5dd1f78faea07ff02a4.128x128.png",
             "set": "nami_skyla_prime_set",
             "parts": [
                 "nami_skyla_prime_handle",
@@ -822,6 +916,7 @@
             ]
         },
         "kronen": {
+            "set_img": "items/images/en/thumbs/kronen_prime_set.09023145e06199878b94a9c664e95ce7.128x128.png",
             "set": "kronen_prime_set",
             "parts": [
                 "kronen_prime_handle",
@@ -830,6 +925,7 @@
             ]
         },
         "tiberon": {
+            "set_img": "items/images/en/thumbs/tiberon_prime_set.53f3cf1c68314c0555fbb7020d01f001.128x128.png",
             "set": "tiberon_prime_set",
             "parts": [
                 "tiberon_prime_blueprint",
@@ -839,6 +935,7 @@
             ]
         },
         "tipedo": {
+            "set_img": "items/images/en/thumbs/tipedo_prime_set.fd4fdcee6ab035eddce9a802ff091cfd.128x128.png",
             "set": "tipedo_prime_set",
             "parts": [
                 "tipedo_prime_handle",
@@ -847,6 +944,7 @@
             ]
         },
         "tekko": {
+            "set_img": "items/images/en/thumbs/tekko_prime_set.ace5f3ef4976ceae04ed01d8fcc695c7.128x128.png",
             "set": "tekko_prime_set",
             "parts": [
                 "tekko_prime_gauntlet",
@@ -855,6 +953,7 @@
             ]
         },
         "rubico": {
+            "set_img": "items/images/en/thumbs/rubico_prime_set.2071211bc2436d4e768dbb61f98f6efd.128x128.png",
             "set": "rubico_prime_set",
             "parts": [
                 "rubico_prime_barrel",
@@ -864,6 +963,7 @@
             ]
         },
         "burston": {
+            "set_img": "items/images/en/thumbs/burston_prime_set.9fc6c6a6dca24113027828df669cd89e.128x128.png",
             "set": "burston_prime_set",
             "parts": [
                 "burston_prime_receiver",
@@ -873,6 +973,7 @@
             ]
         },
         "soma": {
+            "set_img": "items/images/en/thumbs/soma_prime_set.1bf4937a6c2106c373cffeb93b1c87e0.128x128.png",
             "set": "soma_prime_set",
             "parts": [
                 "soma_prime_blueprint",
@@ -882,6 +983,7 @@
             ]
         },
         "akjagara": {
+            "set_img": "items/images/en/thumbs/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
             "set": "akjagara_prime_set",
             "parts": [
                 "akjagara_prime_receiver",
@@ -891,6 +993,7 @@
             ]
         },
         "gram": {
+            "set_img": "items/images/en/thumbs/gram_prime_set.678c245a88b54368ae895b73b6987231.128x128.png",
             "set": "gram_prime_set",
             "parts": [
                 "gram_prime_handle",
@@ -899,6 +1002,7 @@
             ]
         },
         "pyrana": {
+            "set_img": "items/images/en/thumbs/pyrana_prime_set.006fc1f35a3662cb6d84ce6a7f63cd9e.128x128.png",
             "set": "pyrana_prime_set",
             "parts": [
                 "pyrana_prime_blueprint",
@@ -907,6 +1011,7 @@
             ]
         },
         "guandao": {
+            "set_img": "items/images/en/thumbs/guandao_prime_set.cded3d77be7d60eef1d3eb82f189e70f.128x128.png",
             "set": "guandao_prime_set",
             "parts": [
                 "guandao_prime_blueprint",
@@ -915,6 +1020,7 @@
             ]
         },
         "zakti": {
+            "set_img": "items/images/en/thumbs/zakti_prime_set.42dbab2b3b28d1291c7e803ad83e29fa.128x128.png",
             "set": "zakti_prime_set",
             "parts": [
                 "zakti_prime_blueprint",
@@ -923,6 +1029,7 @@
             ]
         },
         "bronco": {
+            "set_img": "items/images/en/thumbs/bronco_prime_set.aa5499a3b26806f1f26a987be9dcf0ca.128x128.png",
             "set": "bronco_prime_set",
             "parts": [
                 "bronco_prime_barrel",
@@ -931,6 +1038,7 @@
             ]
         },
         "galatine": {
+            "set_img": "items/images/en/thumbs/galatine_prime_set.066b855eb73def09ca5f21f677010098.128x128.png",
             "set": "galatine_prime_set",
             "parts": [
                 "galatine_prime_blueprint",
@@ -939,6 +1047,7 @@
             ]
         },
         "corinth": {
+            "set_img": "items/images/en/thumbs/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
             "set": "corinth_prime_set",
             "parts": [
                 "corinth_prime_stock",
@@ -948,6 +1057,7 @@
             ]
         },
         "pandero": {
+            "set_img": "items/images/en/thumbs/pandero_prime_set.b83adf601737a6357fb8a5c06b637e8f.128x128.png",
             "set": "pandero_prime_set",
             "parts": [
                 "pandero_prime_barrel",
@@ -956,6 +1066,7 @@
             ]
         },
         "tenora": {
+            "set_img": "items/images/en/thumbs/tenora_prime_set.cdda299ba3526be64a78df20883fd173.128x128.png",
             "set": "tenora_prime_set",
             "parts": [
                 "tenora_prime_blueprint",
@@ -965,6 +1076,7 @@
             ]
         },
         "volnus": {
+            "set_img": "items/images/en/thumbs/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
             "set": "volnus_prime_set",
             "parts": [
                 "volnus_prime_handle",
@@ -973,6 +1085,7 @@
             ]
         },
         "astilla": {
+            "set_img": "items/images/en/thumbs/astilla_prime_set.4bad71b95376c38d100a5d8caa581266.128x128.png",
             "set": "astilla_prime_set",
             "parts": [
                 "astilla_prime_blueprint",
@@ -982,6 +1095,7 @@
             ]
         },
         "strun": {
+            "set_img": "items/images/en/thumbs/strun_prime_set.e7f858160a34886c105633deab6b343e.128x128.png",
             "set": "strun_prime_set",
             "parts": [
                 "strun_prime_blueprint",
@@ -991,6 +1105,7 @@
             ]
         },
         "magnus": {
+            "set_img": "items/images/en/thumbs/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.128x128.png",
             "set": "magnus_prime_set",
             "parts": [
                 "magnus_prime_blueprint",
@@ -999,6 +1114,7 @@
             ]
         },
         "knell": {
+            "set_img": "items/images/en/thumbs/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.128x128.png",
             "set": "knell_prime_set",
             "parts": [
                 "knell_prime_barrel",
@@ -1007,6 +1123,7 @@
             ]
         },
         "scourge": {
+            "set_img": "items/images/en/thumbs/scourge_prime_set.0a3ad76487e9722f613f6e57e3983cbd.128x128.png",
             "set": "scourge_prime_set",
             "parts": [
                 "scourge_prime_blade",
@@ -1016,6 +1133,7 @@
             ]
         },
         "corvas": {
+            "set_img": "items/images/en/thumbs/corvas_prime_set.f6bd98b0b4a2491580a40775708b21f4.128x128.png",
             "set": "corvas_prime_set",
             "parts": [
                 "corvas_prime_barrel",
@@ -1025,6 +1143,7 @@
             ]
         },
         "nagantaka": {
+            "set_img": "items/images/en/thumbs/nagantaka_prime_set.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
             "set": "nagantaka_prime_set",
             "parts": [
                 "nagantaka_prime_receiver",
@@ -1034,6 +1153,7 @@
             ]
         },
         "dual_keres": {
+            "set_img": "items/images/en/thumbs/dual_keres_prime_set.ea70ac30dab8db745193cb166b246efc.128x128.png",
             "set": "dual_keres_prime_set",
             "parts": [
                 "dual_keres_prime_handle",
@@ -1042,6 +1162,7 @@
             ]
         },
         "hystrix": {
+            "set_img": "items/images/en/thumbs/hystrix_prime_set.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
             "set": "hystrix_prime_set",
             "parts": [
                 "hystrix_prime_blueprint",
@@ -1050,6 +1171,7 @@
             ]
         },
         "tatsu": {
+            "set_img": "items/images/en/thumbs/tatsu_prime_set.d517fb4c89ed6076ddf26ffdb8efb88e.128x128.png",
             "set": "tatsu_prime_set",
             "parts": [
                 "tatsu_prime_blade",
@@ -1058,6 +1180,7 @@
             ]
         },
         "phantasma": {
+            "set_img": "items/images/en/thumbs/phantasma_prime_set.a296718b56d5a40b6df80bbedeeb4b75.128x128.png",
             "set": "phantasma_prime_set",
             "parts": [
                 "phantasma_prime_barrel",
@@ -1067,6 +1190,7 @@
             ]
         },
         "afuris": {
+            "set_img": "items/images/en/thumbs/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
             "set": "afuris_prime_set",
             "parts": [
                 "afuris_prime_barrel",
@@ -1076,6 +1200,7 @@
             ]
         },
         "cobra_and_crane": {
+            "set_img": "items/images/en/thumbs/cobra_and_crane_prime_set.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
             "set": "cobra_and_crane_prime_set",
             "parts": [
                 "cobra_and_crane_prime_guard",
@@ -1085,6 +1210,7 @@
             ]
         },
         "larkspur": {
+            "set_img": "items/images/en/thumbs/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.128x128.png",
             "set": "larkspur_prime_set",
             "parts": [
                 "larkspur_prime_barrel",
@@ -1094,6 +1220,7 @@
             ]
         },
         "gunsen": {
+            "set_img": "items/images/en/thumbs/gunsen_prime_set.a344dbe97a8e1968c9f04f1f21145edf.128x128.png",
             "set": "gunsen_prime_set",
             "parts": [
                 "gunsen_prime_blueprint",
@@ -1102,6 +1229,7 @@
             ]
         },
         "fulmin": {
+            "set_img": "items/images/en/thumbs/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
             "set": "fulmin_prime_set",
             "parts": [
                 "fulmin_prime_blueprint",
@@ -1111,6 +1239,7 @@
             ]
         },
         "masseter": {
+            "set_img": "items/images/en/thumbs/masseter_prime_set.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png",
             "set": "masseter_prime_set",
             "parts": [
                 "masseter_prime_blueprint",
@@ -1119,6 +1248,7 @@
             ]
         },
         "zylok": {
+            "set_img": "items/images/en/thumbs/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
             "set": "zylok_prime_set",
             "parts": [
                 "zylok_prime_blueprint",
@@ -1127,6 +1257,7 @@
             ]
         },
         "akarius": {
+            "set_img": "items/images/en/thumbs/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
             "set": "akarius_prime_set",
             "parts": [
                 "akarius_prime_blueprint",
@@ -1136,6 +1267,7 @@
             ]
         },
         "acceltra": {
+            "set_img": "items/images/en/thumbs/acceltra_prime_set.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
             "set": "acceltra_prime_set",
             "parts": [
                 "acceltra_prime_blueprint",
@@ -1145,6 +1277,7 @@
             ]
         },
         "velox": {
+            "set_img": "items/images/en/thumbs/velox_prime_set.bc5a5e03386043e26ec2a69b90cc0cad.128x128.png",
             "set": "velox_prime_set",
             "parts": [
                 "velox_prime_blueprint",
@@ -1153,6 +1286,7 @@
             ]
         },
         "okina": {
+            "set_img": "items/images/en/thumbs/okina_prime_set.d93cf8091977d4c4696423b69951ff7a.128x128.png",
             "set": "okina_prime_set",
             "parts": [
                 "okina_prime_blueprint",
@@ -1161,6 +1295,7 @@
             ]
         },
         "akmagnus": {
+            "set_img": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp",
             "set": "akmagnus_prime_set",
             "parts": [
                 "akmagnus_prime_blueprint",
@@ -1168,6 +1303,7 @@
             ]
         },
         "epitaph": {
+            "set_img": "items/images/en/thumbs/epitaph_prime.7402042b9ff2df97d76b99404f0bb527.128x128.webp",
             "set": "epitaph_prime_set",
             "parts": [
                 "epitaph_prime_blueprint",
@@ -1176,6 +1312,7 @@
             ]
         },
         "trumna": {
+            "set_img": "items/images/en/thumbs/trumna_prime.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp",
             "set": "trumna_prime_set",
             "parts": [
                 "trumna_prime_blueprint",
@@ -1185,6 +1322,7 @@
             ]
         },
         "quassus": {
+            "set_img": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp",
             "set": "quassus_prime_set",
             "parts": [
                 "quassus_prime_blueprint",
@@ -1193,6 +1331,7 @@
             ]
         },
         "cedo": {
+            "set_img": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp",
             "set": "cedo_prime_set",
             "parts": [
                 "cedo_prime_blueprint",
@@ -1202,6 +1341,7 @@
             ]
         },
         "dual_zoren": {
+            "set_img": "items/images/en/thumbs/dual_zoren_prime_set.d98ec2f1e8178524255002d3f248089f.128x128.webp",
             "set": "dual_zoren_prime_set",
             "parts": [
                 "dual_zoren_prime_blueprint",
@@ -1210,6 +1350,7 @@
             ]
         },
         "daikyu": {
+            "set_img": "items/images/en/thumbs/daikyu_prime_set.56987b8ec6a151a7dc61a753674d018f.128x128.webp",
             "set": "daikyu_prime_set",
             "parts": [
                 "daikyu_prime_blueprint",
@@ -1220,6 +1361,7 @@
             ]
         },
         "kompressa": {
+            "set_img": "items/images/en/thumbs/kompressa_prime_set.5a08eed489a41bc8482f21bdabea7637.128x128.webp",
             "set": "kompressa_prime_set",
             "parts": [
                 "kompressa_prime_blueprint",
@@ -1228,6 +1370,7 @@
             ]
         },
         "vadarya": {
+            "set_img": "items/images/en/thumbs/vadarya_prime_set.0456477036c7f0194f3db68594ca85ab.128x128.webp",
             "set": "vadarya_prime_set",
             "parts": [
                 "vadarya_prime_blueprint",
@@ -1237,6 +1380,7 @@
             ]
         },
         "venato": {
+            "set_img": "items/images/en/thumbs/venato_prime_set.b920bae8db1aa3422664d86c0bed2bb2.128x128.webp",
             "set": "venato_prime_set",
             "parts": [
                 "venato_prime_blueprint",
@@ -1245,6 +1389,7 @@
             ]
         },
         "alternox": {
+            "set_img": "items/images/en/thumbs/alternox_prime_set.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp",
             "set": "alternox_prime_set",
             "parts": [
                 "alternox_prime_blueprint",
@@ -1254,6 +1399,7 @@
             ]
         },
         "kestrel": {
+            "set_img": "items/images/en/thumbs/kestrel_prime_set.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp",
             "set": "kestrel_prime_set",
             "parts": [
                 "kestrel_prime_blueprint",
@@ -1264,6 +1410,7 @@
     },
     "companions": {
         "helios": {
+            "set_img": "items/images/en/thumbs/helios_prime_set.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
             "set": "helios_prime_set",
             "parts": [
                 "helios_prime_carapace",
@@ -1273,6 +1420,7 @@
             ]
         },
         "carrier": {
+            "set_img": "items/images/en/thumbs/carrier_prime_set.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
             "set": "carrier_prime_set",
             "parts": [
                 "carrier_prime_blueprint",
@@ -1282,6 +1430,7 @@
             ]
         },
         "dethcube": {
+            "set_img": "items/images/en/thumbs/dethcube_prime_set.47a0e82681bf367a015928558a9f133b.128x128.png",
             "set": "dethcube_prime_set",
             "parts": [
                 "dethcube_prime_carapace",
@@ -1291,6 +1440,7 @@
             ]
         },
         "wyrm": {
+            "set_img": "items/images/en/thumbs/wyrm_prime_set.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
             "set": "wyrm_prime_set",
             "parts": [
                 "wyrm_prime_blueprint",
@@ -1300,6 +1450,7 @@
             ]
         },
         "shade": {
+            "set_img": "items/images/en/thumbs/shade_prime_set.d4376af3d68e873e85f81f456c83b261.128x128.png",
             "set": "shade_prime_set",
             "parts": [
                 "shade_prime_blueprint",
@@ -1309,6 +1460,7 @@
             ]
         },
         "nautilus": {
+            "set_img": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp",
             "set": "nautilus_prime_set",
             "parts": [
                 "nautilus_prime_blueprint",
@@ -1320,892 +1472,1114 @@
     },
     "arcanes": {
         "arcane_barrier": {
+            "img": "items/images/en/thumbs/arcane_barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.128x128.png",
             "arcane": "arcane_barrier",
             "rank": 5
         },
         "arcane_ice": {
+            "img": "items/images/en/thumbs/arcane_ice.d3cb62ba9923dcf396c854fb857e5718.128x128.png",
             "arcane": "arcane_ice",
             "rank": 5
         },
         "virtuos_strike": {
+            "img": "items/images/en/thumbs/virtuos_strike.9bb469736054bb8b5c4d55628d49e83e.128x128.png",
             "arcane": "virtuos_strike",
             "rank": 3
         },
         "pax_soar": {
+            "img": "items/images/en/thumbs/pax_soar.b1cec46096b57bd8c82c974fbd376baa.128x128.png",
             "arcane": "pax_soar",
             "rank": 3
         },
         "arcane_trickery": {
+            "img": "items/images/en/thumbs/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.128x128.png",
             "arcane": "arcane_trickery",
             "rank": 5
         },
         "arcane_velocity": {
+            "img": "items/images/en/thumbs/arcane_velocity.ea37edd24f8212ce4bb283205658829b.128x128.png",
             "arcane": "arcane_velocity",
             "rank": 5
         },
         "arcane_resistance": {
+            "img": "items/images/en/thumbs/arcane_resistance.4ca1f093ba47158b7f2641f3508e9b99.128x128.png",
             "arcane": "arcane_resistance",
             "rank": 5
         },
         "arcane_pulse": {
+            "img": "items/images/en/thumbs/arcane_pulse.9f9a959b60addb3377fec907f8c5d35b.128x128.png",
             "arcane": "arcane_pulse",
             "rank": 5
         },
         "magus_vigor": {
+            "img": "items/images/en/thumbs/magus_vigor.473998d768bd420877df79cdd55c6188.128x128.png",
             "arcane": "magus_vigor",
             "rank": 5
         },
         "magus_repair": {
+            "img": "items/images/en/thumbs/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.128x128.png",
             "arcane": "magus_repair",
             "rank": 5
         },
         "magus_glitch": {
+            "img": "items/images/en/thumbs/magus_glitch.280ca4675b8d1d36f742493903bf7c3c.128x128.png",
             "arcane": "magus_glitch",
             "rank": 5
         },
         "magus_overload": {
+            "img": "items/images/en/thumbs/magus_overload.c575b29c15d999083923ee609dcda264.128x128.png",
             "arcane": "magus_overload",
             "rank": 5
         },
         "arcane_fury": {
+            "img": "items/images/en/thumbs/arcane_fury.221e1166ea44c6d2473f59b7cfa4396a.128x128.png",
             "arcane": "arcane_fury",
             "rank": 5
         },
         "arcane_aegis": {
+            "img": "items/images/en/thumbs/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.128x128.png",
             "arcane": "arcane_aegis",
             "rank": 5
         },
         "arcane_consequence": {
+            "img": "items/images/en/thumbs/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.128x128.png",
             "arcane": "arcane_consequence",
             "rank": 5
         },
         "arcane_energize": {
+            "img": "items/images/en/thumbs/arcane_energize.e5f85590ceb29db89c6753dfdf823485.128x128.png",
             "arcane": "arcane_energize",
             "rank": 5
         },
         "arcane_strike": {
+            "img": "items/images/en/thumbs/arcane_strike.27c40994b55f506fe736175c9cebbf0e.128x128.png",
             "arcane": "arcane_strike",
             "rank": 5
         },
         "arcane_nullifier": {
+            "img": "items/images/en/thumbs/arcane_nullifier.2fa3bc7cd7e902ae797f175896f10f97.128x128.png",
             "arcane": "arcane_nullifier",
             "rank": 5
         },
         "arcane_victory": {
+            "img": "items/images/en/thumbs/arcane_victory.2e3e7da2e7600a0e376eae98c3fd80a9.128x128.png",
             "arcane": "arcane_victory",
             "rank": 5
         },
         "arcane_eruption": {
+            "img": "items/images/en/thumbs/arcane_eruption.96e2b7f03322df6295089a9dd442df86.128x128.png",
             "arcane": "arcane_eruption",
             "rank": 5
         },
         "arcane_awakening": {
+            "img": "items/images/en/thumbs/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.128x128.png",
             "arcane": "arcane_awakening",
             "rank": 5
         },
         "arcane_ultimatum": {
+            "img": "items/images/en/thumbs/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.128x128.png",
             "arcane": "arcane_ultimatum",
             "rank": 5
         },
         "magus_anomaly": {
+            "img": "items/images/en/thumbs/magus_anomaly.3f06b6fc67779e08e0f55c9d04db0da2.128x128.png",
             "arcane": "magus_anomaly",
             "rank": 5
         },
         "virtuos_surge": {
+            "img": "items/images/en/thumbs/virtuos_surge.1047626f95c989bdd5ee977d1eca05d5.128x128.png",
             "arcane": "virtuos_surge",
             "rank": 3
         },
         "arcane_deflection": {
+            "img": "items/images/en/thumbs/arcane_deflection.6ee1147da81f3a9f705621012c560832.128x128.png",
             "arcane": "arcane_deflection",
             "rank": 5
         },
         "exodia_valor": {
+            "img": "items/images/en/thumbs/exodia_valor.6944e42105fc09e60c8a843acedfd7cf.128x128.png",
             "arcane": "exodia_valor",
             "rank": 3
         },
         "arcane_grace": {
+            "img": "items/images/en/thumbs/arcane_grace.3e4f746417d977c6ac5f2c9edd71ada0.128x128.png",
             "arcane": "arcane_grace",
             "rank": 5
         },
         "virtuos_fury": {
+            "img": "items/images/en/thumbs/virtuos_fury.f71902bf678d290ad03b625dc35834ca.128x128.png",
             "arcane": "virtuos_fury",
             "rank": 3
         },
         "virtuos_null": {
+            "img": "items/images/en/thumbs/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.128x128.png",
             "arcane": "virtuos_null",
             "rank": 3
         },
         "virtuos_tempo": {
+            "img": "items/images/en/thumbs/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.128x128.png",
             "arcane": "virtuos_tempo",
             "rank": 3
         },
         "exodia_force": {
+            "img": "items/images/en/thumbs/exodia_force.3777cf3132503f972624ac56c1731743.128x128.png",
             "arcane": "exodia_force",
             "rank": 3
         },
         "virtuos_ghost": {
+            "img": "items/images/en/thumbs/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.128x128.png",
             "arcane": "virtuos_ghost",
             "rank": 3
         },
         "virtuos_forge": {
+            "img": "items/images/en/thumbs/virtuos_forge.51355a12fdc05c779f027af6caa6f157.128x128.png",
             "arcane": "virtuos_forge",
             "rank": 3
         },
         "pax_seeker": {
+            "img": "items/images/en/thumbs/pax_seeker.8e3a7fb880c0e047f9a7d60ca4fbfb84.128x128.png",
             "arcane": "pax_seeker",
             "rank": 3
         },
         "virtuos_spike": {
+            "img": "items/images/en/thumbs/virtuos_spike.8e4996323b5d41abf0354b39741c0dad.128x128.png",
             "arcane": "virtuos_spike",
             "rank": 3
         },
         "arcane_tempo": {
+            "img": "items/images/en/thumbs/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.128x128.png",
             "arcane": "arcane_tempo",
             "rank": 5
         },
         "arcane_agility": {
+            "img": "items/images/en/thumbs/arcane_agility.2274fd115d389b990a55f5a4ff864773.128x128.png",
             "arcane": "arcane_agility",
             "rank": 5
         },
         "arcane_bodyguard": {
+            "img": "items/images/en/thumbs/arcane_bodyguard.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
             "arcane": "arcane_bodyguard",
             "rank": 5
         },
         "arcane_primary_charger": {
+            "img": "items/images/en/thumbs/arcane_primary_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
             "arcane": "arcane_primary_charger",
             "rank": 5
         },
         "arcane_blade_charger": {
+            "img": "items/images/en/thumbs/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
             "arcane": "arcane_blade_charger",
             "rank": 5
         },
         "magus_drive": {
+            "img": "items/images/en/thumbs/magus_drive.618edddcaa1b6d427526a4fe89063deb.128x128.png",
             "arcane": "magus_drive",
             "rank": 5
         },
         "magus_cadence": {
+            "img": "items/images/en/thumbs/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.128x128.png",
             "arcane": "magus_cadence",
             "rank": 5
         },
         "exodia_brave": {
+            "img": "items/images/en/thumbs/exodia_brave.46667ed53d81bf2cc9aacde46019c7e9.128x128.png",
             "arcane": "exodia_brave",
             "rank": 3
         },
         "exodia_hunt": {
+            "img": "items/images/en/thumbs/exodia_hunt.991da5e49a00e69755b5c7948f5448f6.128x128.png",
             "arcane": "exodia_hunt",
             "rank": 3
         },
         "exodia_triumph": {
+            "img": "items/images/en/thumbs/exodia_triumph.fe6f1256127be984a80deb48afd26faa.128x128.png",
             "arcane": "exodia_triumph",
             "rank": 3
         },
         "magus_nourish": {
+            "img": "items/images/en/thumbs/magus_nourish.a33f07304a72500072d20d13258e119b.128x128.png",
             "arcane": "magus_nourish",
             "rank": 5
         },
         "virtuos_shadow": {
+            "img": "items/images/en/thumbs/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.128x128.png",
             "arcane": "virtuos_shadow",
             "rank": 3
         },
         "arcane_guardian": {
+            "img": "items/images/en/thumbs/arcane_guardian.5d8874dfd06eaaf9aaceef59d99213b3.128x128.png",
             "arcane": "arcane_guardian",
             "rank": 5
         },
         "magus_accelerant": {
+            "img": "items/images/en/thumbs/magus_accelerant.3d50149a79c8ec5ab2a2499da47244e2.128x128.png",
             "arcane": "magus_accelerant",
             "rank": 5
         },
         "arcane_healing": {
+            "img": "items/images/en/thumbs/arcane_healing.acadb2bf20e9dad0e620e8641110a928.128x128.png",
             "arcane": "arcane_healing",
             "rank": 5
         },
         "arcane_warmth": {
+            "img": "items/images/en/thumbs/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png",
             "arcane": "arcane_warmth",
             "rank": 5
         },
         "virtuos_trojan": {
+            "img": "items/images/en/thumbs/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.128x128.png",
             "arcane": "virtuos_trojan",
             "rank": 3
         },
         "exodia_contagion": {
+            "img": "items/images/en/thumbs/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.128x128.png",
             "arcane": "exodia_contagion",
             "rank": 3
         },
         "exodia_epidemic": {
+            "img": "items/images/en/thumbs/exodia_epidemic.3807403ba71019a6186468b251bc1d3a.128x128.png",
             "arcane": "exodia_epidemic",
             "rank": 3
         },
         "theorem_demulcent": {
+            "img": "items/images/en/thumbs/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.128x128.png",
             "arcane": "theorem_demulcent",
             "rank": 5
         },
         "theorem_infection": {
+            "img": "items/images/en/thumbs/theorem_infection.1b72a86a16929c0a3c0848ca448e8783.128x128.png",
             "arcane": "theorem_infection",
             "rank": 5
         },
         "residual_shock": {
+            "img": "items/images/en/thumbs/residual_shock.931038e226263ca655a8e3e4eeb76cf6.128x128.png",
             "arcane": "residual_shock",
             "rank": 3
         },
         "magus_replenish": {
+            "img": "items/images/en/thumbs/magus_replenish.b65658da1b4a7e7090c6439e28476d39.128x128.png",
             "arcane": "magus_replenish",
             "rank": 5
         },
         "magus_cloud": {
+            "img": "items/images/en/thumbs/magus_cloud.911f21546c5c95ceb5e23bb5127fd9e4.128x128.png",
             "arcane": "magus_cloud",
             "rank": 5
         },
         "arcane_acceleration": {
+            "img": "items/images/en/thumbs/arcane_acceleration.452ae9fb49a9a6f7a1207133be620b42.128x128.png",
             "arcane": "arcane_acceleration",
             "rank": 5
         },
         "arcane_arachne": {
+            "img": "items/images/en/thumbs/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.128x128.png",
             "arcane": "arcane_arachne",
             "rank": 5
         },
         "arcane_momentum": {
+            "img": "items/images/en/thumbs/arcane_momentum.f551dd91689f3169160aafecddeede24.128x128.png",
             "arcane": "arcane_momentum",
             "rank": 5
         },
         "arcane_precision": {
+            "img": "items/images/en/thumbs/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.128x128.png",
             "arcane": "arcane_precision",
             "rank": 5
         },
         "exodia_might": {
+            "img": "items/images/en/thumbs/exodia_might.255cbe521efd3aa7312e90e523b3c9ed.128x128.png",
             "arcane": "exodia_might",
             "rank": 3
         },
         "pax_bolt": {
+            "img": "items/images/en/thumbs/pax_bolt.c2a3984cf53e69467a87424c1ca2acd4.128x128.png",
             "arcane": "pax_bolt",
             "rank": 3
         },
         "magus_melt": {
+            "img": "items/images/en/thumbs/magus_melt.4b9f09f76e8d5c38d170209ecfda3481.128x128.png",
             "arcane": "magus_melt",
             "rank": 5
         },
         "magus_firewall": {
+            "img": "items/images/en/thumbs/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.128x128.png",
             "arcane": "magus_firewall",
             "rank": 5
         },
         "magus_destruct": {
+            "img": "items/images/en/thumbs/magus_destruct.5d566d3caf8a4d577f3316224757d24f.128x128.png",
             "arcane": "magus_destruct",
             "rank": 5
         },
         "magus_husk": {
+            "img": "items/images/en/thumbs/magus_husk.e06a95548913c871fb0bd03a1691f917.128x128.png",
             "arcane": "magus_husk",
             "rank": 5
         },
         "magus_elevate": {
+            "img": "items/images/en/thumbs/magus_elevate.c2f5a10648687f0c0fc4f66f5df6b76f.128x128.png",
             "arcane": "magus_elevate",
             "rank": 5
         },
         "residual_boils": {
+            "img": "items/images/en/thumbs/residual_boils.93e9e7547e47068d710a638a90529a79.128x128.png",
             "arcane": "residual_boils",
             "rank": 3
         },
         "residual_viremia": {
+            "img": "items/images/en/thumbs/residual_viremia.e6aabdd66ee9c050d79913a2b0eee1d2.128x128.png",
             "arcane": "residual_viremia",
             "rank": 3
         },
         "residual_malodor": {
+            "img": "items/images/en/thumbs/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.128x128.png",
             "arcane": "residual_malodor",
             "rank": 3
         },
         "theorem_contagion": {
+            "img": "items/images/en/thumbs/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.128x128.png",
             "arcane": "theorem_contagion",
             "rank": 5
         },
         "arcane_tanker": {
+            "img": "items/images/en/thumbs/arcane_tanker.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
             "arcane": "arcane_tanker",
             "rank": 5
         },
         "arcane_pistoleer": {
+            "img": "items/images/en/thumbs/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
             "arcane": "arcane_pistoleer",
             "rank": 5
         },
         "pax_charge": {
+            "img": "items/images/en/thumbs/pax_charge.99b9e313690e8366285d0585c5da5926.128x128.png",
             "arcane": "pax_charge",
             "rank": 3
         },
         "magus_revert": {
+            "img": "items/images/en/thumbs/magus_revert.5265627e260f59579d8073a749956ce5.128x128.png",
             "arcane": "magus_revert",
             "rank": 5
         },
         "arcane_avenger": {
+            "img": "items/images/en/thumbs/arcane_avenger.181b3606583aa0b904a1ebf0b6864e82.128x128.png",
             "arcane": "arcane_avenger",
             "rank": 5
         },
         "arcane_phantasm": {
+            "img": "items/images/en/thumbs/arcane_phantasm.78366e4d487988a78d128a4822b4f824.128x128.png",
             "arcane": "arcane_phantasm",
             "rank": 5
         },
         "arcane_rage": {
+            "img": "items/images/en/thumbs/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.128x128.png",
             "arcane": "arcane_rage",
             "rank": 5
         },
         "magus_lockdown": {
+            "img": "items/images/en/thumbs/magus_lockdown.db5242eedb9db87b7e8638c3a2aa4cce.128x128.png",
             "arcane": "magus_lockdown",
             "rank": 5
         },
         "secondary_merciless": {
+            "img": "items/images/en/thumbs/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.128x128.png",
             "arcane": "secondary_merciless",
             "rank": 5
         },
         "primary_merciless": {
+            "img": "items/images/en/thumbs/primary_merciless.baca700cca91762be6465c5f52584fa7.128x128.png",
             "arcane": "primary_merciless",
             "rank": 5
         },
         "secondary_dexterity": {
+            "img": "items/images/en/thumbs/secondary_dexterity.8fa0cf692f8f0e2f900e4175c5613460.128x128.png",
             "arcane": "secondary_dexterity",
             "rank": 5
         },
         "secondary_deadhead": {
+            "img": "items/images/en/thumbs/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.128x128.png",
             "arcane": "secondary_deadhead",
             "rank": 5
         },
         "primary_deadhead": {
+            "img": "items/images/en/thumbs/primary_deadhead.75738d3c111067da8e673bf8000a6710.128x128.png",
             "arcane": "primary_deadhead",
             "rank": 5
         },
         "primary_dexterity": {
+            "img": "items/images/en/thumbs/primary_dexterity.accc2c9a2780152f354696b2549814bc.128x128.png",
             "arcane": "primary_dexterity",
             "rank": 5
         },
         "emergence_dissipate": {
+            "img": "items/images/en/thumbs/emergence_dissipate.83218167b319a330d85249791386f866.128x128.png",
             "arcane": "emergence_dissipate",
             "rank": 5
         },
         "molt_vigor": {
+            "img": "items/images/en/thumbs/molt_vigor.51b7ce183f508eb27c3df9efa59c1341.128x128.png",
             "arcane": "molt_vigor",
             "rank": 5
         },
         "emergence_renewed": {
+            "img": "items/images/en/thumbs/emergence_renewed.a5f55caadd8f27ff5acbe25bbd9b00a7.128x128.png",
             "arcane": "emergence_renewed",
             "rank": 5
         },
         "eternal_eradicate": {
+            "img": "items/images/en/thumbs/eternal_eradicate.75f8c32b70d1fa1fc211942ce7c3119e.128x128.png",
             "arcane": "eternal_eradicate",
             "rank": 5
         },
         "molt_efficiency": {
+            "img": "items/images/en/thumbs/molt_efficiency.c76d07229a6c7e12bff54ac2f56f47b5.128x128.png",
             "arcane": "molt_efficiency",
             "rank": 5
         },
         "emergence_savior": {
+            "img": "items/images/en/thumbs/emergence_savior.d3cab5acf5703d92987d92188478d65d.128x128.png",
             "arcane": "emergence_savior",
             "rank": 5
         },
         "cascadia_overcharge": {
+            "img": "items/images/en/thumbs/cascadia_overcharge.d5f7bf0949071f325145d596e35b3087.128x128.png",
             "arcane": "cascadia_overcharge",
             "rank": 5
         },
         "eternal_onslaught": {
+            "img": "items/images/en/thumbs/eternal_onslaught.d9c808039b68dd997cc6dee543c8b0ab.128x128.png",
             "arcane": "eternal_onslaught",
             "rank": 5
         },
         "molt_reconstruct": {
+            "img": "items/images/en/thumbs/molt_reconstruct.3c470837973134be1c9db91e0bdceeb0.128x128.png",
             "arcane": "molt_reconstruct",
             "rank": 5
         },
         "molt_augmented": {
+            "img": "items/images/en/thumbs/molt_augmented.9def654a0d24b7f085940dfc8ef843b5.128x128.png",
             "arcane": "molt_augmented",
             "rank": 5
         },
         "eternal_logistics": {
+            "img": "items/images/en/thumbs/eternal_logistics.f12227878bbb95901bd6aba5aa902acf.128x128.png",
             "arcane": "eternal_logistics",
             "rank": 5
         },
         "cascadia_empowered": {
+            "img": "items/images/en/thumbs/cascadia_empowered.677ddc0966a5d8662883735fb42d2ec3.128x128.png",
             "arcane": "cascadia_empowered",
             "rank": 5
         },
         "fractalized_reset": {
+            "img": "items/images/en/thumbs/fractalized_reset.234df692ab2ebf6bd1e73f1f115547fa.128x128.png",
             "arcane": "fractalized_reset",
             "rank": 5
         },
         "cascadia_flare": {
+            "img": "items/images/en/thumbs/cascadia_flare.256fbbf670c8acdcc8468ed035cc6efe.128x128.png",
             "arcane": "cascadia_flare",
             "rank": 5
         },
         "cascadia_accuracy": {
+            "img": "items/images/en/thumbs/cascadia_accuracy.51f25b4bd629c3c34226da11b9831d57.128x128.png",
             "arcane": "cascadia_accuracy",
             "rank": 5
         },
         "conjunction_voltage": {
+            "img": "items/images/en/thumbs/conjunction_voltage.d7ac26c466e1d189eaa0f1eab81b6b4b.128x128.png",
             "arcane": "conjunction_voltage",
             "rank": 5
         },
         "primary_frostbite": {
+            "img": "items/images/en/thumbs/primary_frostbite.3aba98f1779bfc69c3139e83dbda1463.128x128.png",
             "arcane": "primary_frostbite",
             "rank": 5
         },
         "arcane_rise": {
+            "img": "items/images/en/thumbs/arcane_rise.dd639f42f0235bd00abea150d1666f89.128x128.png",
             "arcane": "arcane_rise",
             "rank": 5
         },
         "arcane_blessing": {
+            "img": "items/images/en/thumbs/arcane_blessing.aec88d7b4b3482f59c6c1a3b87185042.128x128.png",
             "arcane": "arcane_blessing",
             "rank": 5
         },
         "primary_plated_round": {
+            "img": "items/images/en/thumbs/primary_plated_round.db83727f4a2cc66deac96ae09ab0299f.128x128.png",
             "arcane": "primary_plated_round",
             "rank": 5
         },
         "arcane_steadfast": {
+            "img": "items/images/en/thumbs/arcane_steadfast.ccf77e85d0ff32f127e1a71d38ea8c0e.128x128.png",
             "arcane": "arcane_steadfast",
             "rank": 5
         },
         "arcane_double_back": {
+            "img": "items/images/en/thumbs/arcane_double_back.1ed9a591a41ea6c610f532f30b31ae22.128x128.png",
             "arcane": "arcane_double_back",
             "rank": 5
         },
         "secondary_kinship": {
+            "img": "items/images/en/thumbs/secondary_kinship.43ae6eafe467db9484220ac71028362d.128x128.png",
             "arcane": "secondary_kinship",
             "rank": 5
         },
         "secondary_encumber": {
+            "img": "items/images/en/thumbs/secondary_encumber.0e6c3bb15956e965b63a16c90ea70a9d.128x128.png",
             "arcane": "secondary_encumber",
             "rank": 5
         },
         "primary_obstruct": {
+            "img": "items/images/en/thumbs/primary_obstruct.fdedb1774329c76fa8083cf43fa76a06.128x128.png",
             "arcane": "primary_obstruct",
             "rank": 5
         },
         "arcane_intention": {
+            "img": "items/images/en/thumbs/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.128x128.png",
             "arcane": "arcane_intention",
             "rank": 5
         },
         "secondary_shiver": {
+            "img": "items/images/en/thumbs/secondary_shiver.e169db6259133538ca86090ac481840a.128x128.png",
             "arcane": "secondary_shiver",
             "rank": 5
         },
         "longbow_sharpshot": {
+            "img": "items/images/en/thumbs/longbow_sharpshot.1edd43d82c3b61da2555a2ccb9ba9332.128x128.png",
             "arcane": "longbow_sharpshot",
             "rank": 5
         },
         "shotgun_vendetta": {
+            "img": "items/images/en/thumbs/shotgun_vendetta.219b0d47d26345b989decc3a56326c54.128x128.png",
             "arcane": "shotgun_vendetta",
             "rank": 5
         },
         "magus_aggress": {
+            "img": "items/images/en/thumbs/magus_aggress.03f6a273fe2e6e2b3720957cf32c2adf.128x128.png",
             "arcane": "magus_aggress",
             "rank": 5
         },
         "arcane_reaper": {
+            "img": "items/images/en/thumbs/arcane_reaper.5eaac187d816d010ec44ee1a05979564.128x128.png",
             "arcane": "arcane_reaper",
             "rank": 5
         },
         "primary_exhilarate": {
+            "img": "items/images/en/thumbs/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.128x128.png",
             "arcane": "primary_exhilarate",
             "rank": 5
         },
         "arcane_power_ramp": {
+            "img": "items/images/en/thumbs/arcane_power_ramp.3acad1eaec440c1505c01661a7228664.128x128.png",
             "arcane": "arcane_power_ramp",
             "rank": 5
         },
         "primary_blight": {
+            "img": "items/images/en/thumbs/primary_blight.7dc9243c44441b2b46f7e1dc55eae1d0.128x128.png",
             "arcane": "primary_blight",
             "rank": 5
         },
         "secondary_outburst": {
+            "img": "items/images/en/thumbs/secondary_outburst.01c8242b80d987650c8e240454b93249.128x128.png",
             "arcane": "secondary_outburst",
             "rank": 5
         },
         "akimbo_slip_shot": {
+            "img": "items/images/en/thumbs/akimbo_slip_shot.9cb48cdcc739b5306bb4e2a8b3868e72.128x128.png",
             "arcane": "akimbo_slip_shot",
             "rank": 5
         },
         "melee_influence": {
+            "img": "items/images/en/thumbs/melee_influence.b22232a58406e5feeb8bbe94c07c18d2.128x128.webp",
             "arcane": "melee_influence",
             "rank": 5
         },
         "melee_retaliation": {
+            "img": "items/images/en/thumbs/melee_retaliation.bb1d89feb4393d3681c495372d8c3531.128x128.webp",
             "arcane": "melee_retaliation",
             "rank": 5
         },
         "melee_crescendo": {
+            "img": "items/images/en/thumbs/melee_crescendo.fec1a875c68b84f3282a21a82aabdb20.128x128.webp",
             "arcane": "melee_crescendo",
             "rank": 5
         },
         "melee_vortex": {
+            "img": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp",
             "arcane": "melee_vortex",
             "rank": 5
         },
         "melee_animosity": {
+            "img": "items/images/en/thumbs/melee_animosity.f6ee3ff6153769c4686cf53940546609.128x128.webp",
             "arcane": "melee_animosity",
             "rank": 5
         },
         "melee_exposure": {
+            "img": "items/images/en/thumbs/melee_exposure.8f640378cd4d4ca4758da310524b90c6.128x128.webp",
             "arcane": "melee_exposure",
             "rank": 5
         },
         "melee_duplicate": {
+            "img": "items/images/en/thumbs/melee_duplicate.0ac0137e555cde39902706e96853dff9.128x128.webp",
             "arcane": "melee_duplicate",
             "rank": 5
         },
         "melee_fortification": {
+            "img": "items/images/en/thumbs/melee_fortification.546e560aff6676bf550b0de38f14f280.128x128.webp",
             "arcane": "melee_fortification",
             "rank": 5
         },
         "arcane_ice_storm": {
+            "img": "items/images/en/thumbs/arcane_ice_storm.1d3a88fec2c4d415bf8156e2ec9caeeb.128x128.webp",
             "arcane": "arcane_ice_storm",
             "rank": 5
         },
         "secondary_surge": {
+            "img": "items/images/en/thumbs/secondary_surge.911b99fe452eaf250ae01c041639a2be.128x128.webp",
             "arcane": "secondary_surge",
             "rank": 5
         },
         "arcane_battery": {
+            "img": "items/images/en/thumbs/arcane_battery.2a7148e4cd7466c1e52d821a479d3e4e.128x128.webp",
             "arcane": "arcane_battery",
             "rank": 5
         },
         "secondary_fortifier": {
+            "img": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp",
             "arcane": "secondary_fortifier",
             "rank": 5
         },
         "melee_afflictions": {
+            "img": "items/images/en/thumbs/melee_afflictions.36f6811228a70719f5ce96ebce22a926.128x128.webp",
             "arcane": "melee_afflictions",
             "rank": 5
         },
         "arcane_crepuscular": {
+            "img": "items/images/en/thumbs/arcane_crepuscular.8e34ad3ac57362158d9ec6d642364427.128x128.webp",
             "arcane": "arcane_crepuscular",
             "rank": 5
         },
         "arcane_impetus": {
+            "img": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp",
             "arcane": "arcane_impetus",
             "rank": 5
         },
         "primary_crux": {
+            "img": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp",
             "arcane": "primary_crux",
             "rank": 5
         },
         "secondary_enervate": {
+            "img": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp",
             "arcane": "secondary_enervate",
             "rank": 5
         },
         "melee_doughty": {
+            "img": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp",
             "arcane": "melee_doughty",
             "rank": 5
         },
         "arcane_camisado": {
+            "img": "items/images/en/thumbs/arcane_camisado.49bb15acacdfe7a2782b56151d0a8a3f.128x128.webp",
             "arcane": "arcane_camisado",
             "rank": 5
         },
         "arcane_bellicose": {
+            "img": "items/images/en/thumbs/arcane_bellicose.cba86d2bfb1b20b4a512b6913e79ba0c.128x128.webp",
             "arcane": "arcane_bellicose",
             "rank": 5
         },
         "arcane_truculence": {
+            "img": "items/images/en/thumbs/arcane_truculence.1a7e80d9006d376a28883af0ca96cbdf.128x128.webp",
             "arcane": "arcane_truculence",
             "rank": 5
         },
         "arcane_escapist": {
+            "img": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp",
             "arcane": "arcane_escapist",
             "rank": 5
         },
         "arcane_hot_shot": {
+            "img": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp",
             "arcane": "arcane_hot_shot",
             "rank": 5
         },
         "arcane_universal_fallout": {
+            "img": "items/images/en/thumbs/arcane_universal_fallout.a2684caa30e88e5ef81c183acefe3354.128x128.webp",
             "arcane": "arcane_universal_fallout",
             "rank": 5
         },
         "arcane_persistence": {
+            "img": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp",
             "arcane": "arcane_persistence",
             "rank": 5
         },
         "arcane_expertise": {
+            "img": "items/images/en/thumbs/arcane_expertise.2af40ec68fa1c088e680d32727c186fc.128x128.webp",
             "arcane": "arcane_expertise",
             "rank": 5
         },
         "arcane_circumvent": {
+            "img": "items/images/en/thumbs/arcane_circumvent.961100ef755581993133c15d34f04f53.128x128.webp",
             "arcane": "arcane_circumvent",
             "rank": 5
         },
         "primary_bulwark": {
+            "img": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp",
             "arcane": "primary_bulwark",
             "rank": 5
         },
         "primary_overcharge": {
+            "img": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp",
             "arcane": "primary_overcharge",
             "rank": 5
         },
         "secondary_irradiate": {
+            "img": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp",
             "arcane": "secondary_irradiate",
             "rank": 5
         },
         "primary_debilitate": {
+            "img": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp",
             "arcane": "primary_debilitate",
             "rank": 5
         },
         "arcane_concentration": {
+            "img": "items/images/en/thumbs/arcane_concentration.8241161cbae0706e313693aef592b971.128x128.webp",
             "arcane": "arcane_concentration",
             "rank": 5
         },
         "melee_careen": {
+            "img": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp",
             "arcane": "melee_careen",
             "rank": 5
         },
         "zid-an-sek-eel": {
+            "img": "items/images/en/thumbs/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.128x128.webp",
             "arcane": "zid-an-sek-eel",
             "rank": 5
         },
         "zid-an-asheir": {
+            "img": "items/images/en/thumbs/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.128x128.webp",
             "arcane": "zid-an-asheir",
             "rank": 5
         },
         "zid-an-uskos": {
+            "img": "items/images/en/thumbs/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.128x128.webp",
             "arcane": "zid-an-uskos",
             "rank": 5
         },
         "zid-an-haras": {
+            "img": "items/images/en/thumbs/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.128x128.webp",
             "arcane": "zid-an-haras",
             "rank": 5
         },
         "zid-an-osbok": {
+            "img": "items/images/en/thumbs/zid-an-osbok.bea2033c8ac9089bcff1ea005cdff694.128x128.webp",
             "arcane": "zid-an-osbok",
             "rank": 5
         }
     },
     "mods": {
         "primed_point_blank": {
+            "img": "items/images/en/thumbs/primed_point_blank.205167d02b8601e3d5e56dd6e8d51649.128x128.png",
             "mod": "primed_point_blank",
             "rank": 10
         },
         "primed_shotgun_ammo_mutation": {
+            "img": "items/images/en/thumbs/primed_shotgun_ammo_mutation.3b4752657f1d04139d6cd22039bf49d2.128x128.png",
             "mod": "primed_shotgun_ammo_mutation",
             "rank": 10
         },
         "primed_ravage": {
+            "img": "items/images/en/thumbs/primed_ravage.a0c43849bce0a4b4b68b54a3d799d314.128x128.png",
             "mod": "primed_ravage",
             "rank": 10
         },
         "primed_pressure_point": {
+            "img": "items/images/en/thumbs/primed_pressure_point.57758ed051424155155fb94824224ab4.128x128.png",
             "mod": "primed_pressure_point",
             "rank": 10
         },
         "primed_expel_grineer": {
+            "img": "items/images/en/thumbs/primed_expel_grineer.e26c831370183283cb8d2fa1ec4aed6a.128x128.png",
             "mod": "primed_expel_grineer",
             "rank": 10
         },
         "primed_expel_corpus": {
+            "img": "items/images/en/thumbs/primed_expel_corpus.a7084d32e9f304849b28b8a1b680671c.128x128.png",
             "mod": "primed_expel_corpus",
             "rank": 10
         },
         "primed_expel_infested": {
+            "img": "items/images/en/thumbs/primed_expel_infested.2b5bda3a8c89f2db5e29f598a3e39ce0.128x128.png",
             "mod": "primed_expel_infested",
             "rank": 10
         },
         "primed_expel_corrupted": {
+            "img": "items/images/en/thumbs/primed_expel_corrupted.8c7d6df438f5bf500adda9c1745190fc.128x128.png",
             "mod": "primed_expel_corrupted",
             "rank": 10
         },
         "primed_heated_charge": {
+            "img": "items/images/en/thumbs/primed_heated_charge.be3ac37bf7d2d82f77587dff71452c21.128x128.png",
             "mod": "primed_heated_charge",
             "rank": 10
         },
         "primed_continuity": {
+            "img": "items/images/en/thumbs/primed_continuity.240ece0417bbfeff4410681ea2294f13.128x128.png",
             "mod": "primed_continuity",
             "rank": 10
         },
         "primed_bane_of_infested": {
+            "img": "items/images/en/thumbs/primed_bane_of_infested.dfb6994085d676b00ca85cf63a082a61.128x128.png",
             "mod": "primed_bane_of_infested",
             "rank": 10
         },
         "primed_bane_of_corpus": {
+            "img": "items/images/en/thumbs/primed_bane_of_corpus.7574a28b4b72dc8cf59ceaea00653fa7.128x128.png",
             "mod": "primed_bane_of_corpus",
             "rank": 10
         },
         "primed_bane_of_grineer": {
+            "img": "items/images/en/thumbs/primed_bane_of_grineer.8c901b72c21bb8d664c8403288c1bc1a.128x128.png",
             "mod": "primed_bane_of_grineer",
             "rank": 10
         },
         "primed_morphic_transformer": {
+            "img": "items/images/en/thumbs/primed_morphic_transformer.d9aafc2cca4aed29c725c5b131874ffe.128x128.png",
             "mod": "primed_morphic_transformer",
             "rank": 10
         },
         "primed_pack_leader": {
+            "img": "items/images/en/thumbs/primed_pack_leader.39a41b49aeb7fd8cac6cce8a51c86513.128x128.png",
             "mod": "primed_pack_leader",
             "rank": 10
         },
         "primed_heavy_trauma": {
+            "img": "items/images/en/thumbs/primed_heavy_trauma.bac389152dab880e42a72ef919212844.128x128.png",
             "mod": "primed_heavy_trauma",
             "rank": 10
         },
         "primed_fast_hands": {
+            "img": "items/images/en/thumbs/primed_fast_hands.6bd825412c58f77828bfaaa9936a7e92.128x128.png",
             "mod": "primed_fast_hands",
             "rank": 10
         },
         "primed_bane_of_corrupted": {
+            "img": "items/images/en/thumbs/primed_bane_of_corrupted.b273d5d38532bdb777d830ce87a84d9e.128x128.png",
             "mod": "primed_bane_of_corrupted",
             "rank": 10
         },
         "primed_slip_magazine": {
+            "img": "items/images/en/thumbs/primed_slip_magazine.0fa1381be2a512bad43b7cc263e52edf.128x128.png",
             "mod": "primed_slip_magazine",
             "rank": 10
         },
         "primed_flow": {
+            "img": "items/images/en/thumbs/primed_flow.f65c5889e6d464ceea67c6c0aae9faa0.128x128.png",
             "mod": "primed_flow",
             "rank": 10
         },
         "primed_pistol_ammo_mutation": {
+            "img": "items/images/en/thumbs/primed_pistol_ammo_mutation.3a6c03643ec114f30da4f486b9a30a59.128x128.png",
             "mod": "primed_pistol_ammo_mutation",
             "rank": 10
         },
         "primed_reach": {
+            "img": "items/images/en/thumbs/primed_reach.190fc0fb5b26e6b8a2f5be6927099fa0.128x128.png",
             "mod": "primed_reach",
             "rank": 10
         },
         "primed_smite_infested": {
+            "img": "items/images/en/thumbs/primed_smite_infested.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
             "mod": "primed_smite_infested",
             "rank": 10
         },
         "primed_smite_corpus": {
+            "img": "items/images/en/thumbs/primed_smite_corpus.c6335de9a70ac156604d8251a665d1df.128x128.png",
             "mod": "primed_smite_corpus",
             "rank": 10
         },
         "primed_cleanse_grineer": {
+            "img": "items/images/en/thumbs/primed_cleanse_grineer.58b58698d52bfa948c0b10130787bd2b.128x128.png",
             "mod": "primed_cleanse_grineer",
             "rank": 10
         },
         "primed_cleanse_infested": {
+            "img": "items/images/en/thumbs/primed_cleanse_infested.e08c5946ac81b9b21153eb675c9b30f0.128x128.png",
             "mod": "primed_cleanse_infested",
             "rank": 10
         },
         "primed_cleanse_corpus": {
+            "img": "items/images/en/thumbs/primed_cleanse_corpus.664f038307f6f3c9b8fedf14bc76896b.128x128.png",
             "mod": "primed_cleanse_corpus",
             "rank": 10
         },
         "primed_cleanse_corrupted": {
+            "img": "items/images/en/thumbs/primed_cleanse_corrupted.d9801706fa8ef1720484d7b1c37107fe.128x128.png",
             "mod": "primed_cleanse_corrupted",
             "rank": 10
         },
         "primed_cryo_rounds": {
+            "img": "items/images/en/thumbs/primed_cryo_rounds.6f4f3f7dd369e80de462cac282f21d63.128x128.png",
             "mod": "primed_cryo_rounds",
             "rank": 10
         },
         "primed_animal_instinct": {
+            "img": "items/images/en/thumbs/primed_animal_instinct.5c821ee7a8d69aace0923cdafe5d2fbb.128x128.png",
             "mod": "primed_animal_instinct",
             "rank": 10
         },
         "primed_rubedo_lined_barrel": {
+            "img": "items/images/en/thumbs/primed_rubedo_lined_barrel.f907cff537d893315d623f87d3b700eb.128x128.png",
             "mod": "primed_rubedo_lined_barrel",
             "rank": 10
         },
         "primed_target_cracker": {
+            "img": "items/images/en/thumbs/primed_target_cracker.dbdd7561e20eb9243d62a193a1d786aa.128x128.png",
             "mod": "primed_target_cracker",
             "rank": 10
         },
         "primed_pistol_gambit": {
+            "img": "items/images/en/thumbs/primed_pistol_gambit.a4590d10e9f17bc15d1cdaae9507d4ad.128x128.png",
             "mod": "primed_pistol_gambit",
             "rank": 10
         },
         "primed_fever_strike": {
+            "img": "items/images/en/thumbs/primed_fever_strike.a0dc6eb9fbb4c6648aed7793ca40286b.128x128.png",
             "mod": "primed_fever_strike",
             "rank": 10
         },
         "primed_quickdraw": {
+            "img": "items/images/en/thumbs/primed_quickdraw.1768ebb4f9758fa903319e3979fa2239.128x128.png",
             "mod": "primed_quickdraw",
             "rank": 10
         },
         "primed_firestorm": {
+            "img": "items/images/en/thumbs/primed_firestorm.37a27c8080456fbe614ced671beed66b.128x128.png",
             "mod": "primed_firestorm",
             "rank": 10
         },
         "primed_fulmination": {
+            "img": "items/images/en/thumbs/primed_fulmination.fc3edbbe1b507a08c07859846921d94e.128x128.png",
             "mod": "primed_fulmination",
             "rank": 10
         },
         "primed_rifle_ammo_mutation": {
+            "img": "items/images/en/thumbs/primed_rifle_ammo_mutation.d7261c0bfbca0a7e8f26bf24257d172a.128x128.png",
             "mod": "primed_rifle_ammo_mutation",
             "rank": 10
         },
         "primed_charged_shell": {
+            "img": "items/images/en/thumbs/primed_charged_shell.057b97c27209ec391d8d4e0ca1a2a5e9.128x128.png",
             "mod": "primed_charged_shell",
             "rank": 10
         },
         "primed_regen": {
+            "img": "items/images/en/thumbs/primed_regen.d43312351a7a10acef1b56641029f044.128x128.png",
             "mod": "primed_regen",
             "rank": 10
         },
         "primed_smite_grineer": {
+            "img": "items/images/en/thumbs/primed_smite_grineer.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
             "mod": "primed_smite_grineer",
             "rank": 10
         },
         "primed_smite_corrupted": {
+            "img": "items/images/en/thumbs/primed_smite_corrupted.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
             "mod": "primed_smite_corrupted",
             "rank": 10
         },
         "primed_chilling_grasp": {
+            "img": "items/images/en/thumbs/primed_chilling_grasp.2b25a580922abcba87c88a9b83e0678e.128x128.png",
             "mod": "primed_chilling_grasp",
             "rank": 10
         },
         "primed_tactical_pump": {
+            "img": "items/images/en/thumbs/primed_tactical_pump.eee08b75f81f2885d578e228448f75b2.128x128.png",
             "mod": "primed_tactical_pump",
             "rank": 10
         },
         "primed_magazine_warp": {
+            "img": "items/images/en/thumbs/primed_magazine_warp.3633879e6484d0e271c64b1b04752966.128x128.png",
             "mod": "primed_magazine_warp",
             "rank": 10
         },
         "primed_ammo_stock": {
+            "img": "items/images/en/thumbs/primed_ammo_stock.7caa4ea837a78b6d24b78a0bb46a1dce.128x128.png",
             "mod": "primed_ammo_stock",
             "rank": 10
         },
         "primed_sniper_ammo_mutation": {
+            "img": "items/images/en/thumbs/primed_sniper_ammo_mutation.c03bd7dc7932247caeb35a1b2db935f0.128x128.png",
             "mod": "primed_sniper_ammo_mutation",
             "rank": 10
         },
         "primed_redirection": {
+            "img": "items/images/en/thumbs/primed_redirection.325f8cb4a67aa608a364f7d19d9fd2e0.128x128.png",
             "mod": "primed_redirection",
             "rank": 10
         },
         "primed_convulsion": {
+            "img": "items/images/en/thumbs/primed_convulsion.653accfb70d0dc43bdb4c09afd8dc2a2.128x128.png",
             "mod": "primed_convulsion",
             "rank": 10
         },
         "primed_dual_rounds": {
+            "img": "items/images/en/thumbs/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.128x128.webp",
             "mod": "primed_dual_rounds",
             "rank": 10
         },
         "primed_deadly_efficiency": {
+            "img": "items/images/en/thumbs/primed_deadly_efficiency.6c4ef2232a90ec25f8c82a40602a21eb.128x128.webp",
             "mod": "primed_deadly_efficiency",
             "rank": 10
         },
         "primed_steady_hands": {
+            "img": "items/images/en/thumbs/primed_steady_hands.1d29887a28ce4c601e6c1ba29c92bbe4.128x128.webp",
             "mod": "primed_steady_hands",
             "rank": 10
         },
         "primed_stabilizer": {
+            "img": "items/images/en/thumbs/primed_stabilizer.6a71bfad85471874722d113409dcc828.128x128.webp",
             "mod": "primed_stabilizer",
             "rank": 10
         },
         "primed_counterbalance": {
+            "img": "items/images/en/thumbs/primed_counterbalance.2e8f0586838ca7b371168c73c24db304.128x128.webp",
             "mod": "primed_counterbalance",
             "rank": 10
         },
         "primed_smite_the_murmur": {
+            "img": "items/images/en/thumbs/primed_smite_the_murmur.72a5ed9fa6492475778c404423a258f5.128x128.webp",
             "mod": "primed_smite_the_murmur",
             "rank": 10
         },
         "primed_expel_the_murmur": {
+            "img": "items/images/en/thumbs/primed_expel_the_murmur.f53d132ed58595187052bba3f83222cd.128x128.webp",
             "mod": "primed_expel_the_murmur",
             "rank": 10
         },
         "primed_cleanse_the_murmur": {
+            "img": "items/images/en/thumbs/primed_cleanse_the_murmur.3dae6796b99b296ad259c86ae6aeed32.128x128.webp",
             "mod": "primed_cleanse_the_murmur",
             "rank": 10
         },
         "primed_bane_of_the_murmur": {
+            "img": "items/images/en/thumbs/primed_bane_of_the_murmur.5c422ed6c90990253654c35908810795.128x128.webp",
             "mod": "primed_bane_of_the_murmur",
             "rank": 10
         },
         "primed_venomous_clip": {
+            "img": "items/images/en/thumbs/primed_venomous_clip.3da375b43efdcdc065e4f8d060ab3968.128x128.webp",
             "mod": "primed_venomous_clip",
             "rank": 10
         },
         "primed_ammo_chain": {
+            "img": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp",
             "mod": "primed_ammo_chain",
             "rank": 10
         }

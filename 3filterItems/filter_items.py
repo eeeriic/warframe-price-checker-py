@@ -4,10 +4,12 @@ def filter_items():
     with open("./2filterData/all_items.json", "r") as file:
         data = json.load(file)
 
+        items_by_slug = {i["slug"]: i for i in data}
+
         primes = [i for i in data if "prime" in i["tags"] and "mod" not in i["tags"]] # warfarmes, weapons and companions
         arcanes = [i for i in data if "arcane_enhancement" in i["tags"] and "mod" not in i["tags"]] # arcanes
         mods = [i for i in data if "mod" in i["tags"] and any(r in i["tags"] for r in ["legendary"])] # mods
-
+        
         #---
 
         wf = [i for i in primes if "warframe" in i["tags"]]
@@ -35,11 +37,18 @@ def filter_items():
             """Get all blueprint parts for a given base name"""
             return [p for p in parts_list if p.startswith(name + "_prime_")]
 
+        def get_thumb_for_slug(slug):
+            """Prefer i18n.en thumbnail path for lists; fall back to icon when missing."""
+            item = items_by_slug.get(slug, {})
+            en = (item.get("i18n") or {}).get("en", {})
+            return en.get("thumb") or en.get("icon") or item.get("thumb") or item.get("icon")
+
         wf_dict = {}
         for slug in wf_sets:
             name = extract_base_name(slug)
             parts = get_parts_for_item(name, wf_parts)
             wf_dict[name] = {
+                "set_img": get_thumb_for_slug(slug),
                 "set": slug,
                 "parts": parts
             }
@@ -49,6 +58,7 @@ def filter_items():
             name = extract_base_name(slug)
             parts = get_parts_for_item(name, weapon_parts)
             weapons_dict[name] = {
+                "set_img": get_thumb_for_slug(slug),
                 "set": slug,
                 "parts": parts
             }
@@ -58,6 +68,7 @@ def filter_items():
             name = extract_base_name(slug)
             parts = get_parts_for_item(name, companion_parts)
             companions_dict[name] = {
+                "set_img": get_thumb_for_slug(slug),
                 "set": slug,
                 "parts": parts
             }
@@ -69,6 +80,7 @@ def filter_items():
             slug = i['slug']
             rank = i['maxRank']
             arcanes_dict[slug] = {
+                "img": get_thumb_for_slug(slug),
                 "arcane": slug,
                 "rank": rank
             }
@@ -83,6 +95,7 @@ def filter_items():
                 continue
             rank = i['maxRank']
             mods_dict[slug] = {
+                "img": get_thumb_for_slug(slug),
                 "mod": slug,
                 "rank": rank
             }

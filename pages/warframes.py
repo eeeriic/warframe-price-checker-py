@@ -1,6 +1,7 @@
 import streamlit as st
 import json
 import pandas as pd
+from pathlib import Path
 
 st.markdown(
     """
@@ -16,7 +17,11 @@ st.markdown(
 )
 
 # Load and display warframe prices
-with open('5Prices/warframes/warframe_sets_prices.json', 'r') as f:
+script_dir = Path(__file__).parent
+project_root = script_dir.parent
+prices_file = project_root / "prices" / "warframes" / "warframe_sets_prices.json"
+
+with open(prices_file, 'r') as f:
     warframe_data = json.load(f)
 
 # Convert to DataFrame

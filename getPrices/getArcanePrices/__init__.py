@@ -1,0 +1,1 @@
+from .getAllArcanePrices import getAllArcanePrices
